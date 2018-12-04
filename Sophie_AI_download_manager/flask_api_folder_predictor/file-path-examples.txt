@@ -1,0 +1,1793 @@
+./books/50-years-of-integer-programming.pdf
+./books/7360088-Titu-Andreescu-Putnam-and-Beyond.pdf
+./books/79534810-Basic-Algebra-Anthony-W-Knapp.pdf
+./books/[2003] Unix Network Programming Vol 1.3Rd Ed.pdf
+./books/[Pratap_Misra,_Per_Enge]_Global_Positioning_System(BookZZ.org).pdf
+./books/aata-20160809-sage-7.3.pdf
+./books/Advanced Engineering Mathematics 10th Edition.pdf
+./books/algorithm-design-kleinberg-tardos.pdf
+./books/algorithms-on-strings-trees-and-sequences.pdf
+./books/Algorithms-to-Live-By-The-Computer-Science-of-Human-Decisions.epub
+./books/algorithms_for_computer_algebra_geddes_czapor_labahn.pdf
+./books/Algorithms_for_Image_Processing_and_Computer_Vision.pdf
+./books/Algorithms_on_String_Trees_and_Sequences-libre.pdf
+./books/antlr4-2e-tparr.pdf
+./books/applied-analysis-hunter-nachtergaele.pdf
+./books/Applied_Regression_Analysis_A_Research_Tool.pdf
+./books/art_of_deal_trump.djvu
+./books/AT.pdf
+./books/automata-in-programming.pdf
+./books/Basic_Croatian_v_0.24.pdf
+./books/Bishop__Pattern_Recognition_and_Machine_Learning.pdf
+./books/booklist.txt
+./books/booklist.txt~
+./books/brml.pdf
+./books/bv_cvxbook.pdf
+./books/bv_cvxbook_extra_exercises.pdf
+./books/C++ Primer Plus (5th Edition).pdf
+./books/C++ Templates The Complete Guide.pdf
+./books/calculus.pdf
+./books/calibre
+./books/calibre/John Schember
+./books/calibre/John Schember/Calibre Quick Start Guide (1)
+./books/calibre/John Schember/Calibre Quick Start Guide (1)/Calibre Quick Start Guide - John Schember.epub
+./books/calibre/John Schember/Calibre Quick Start Guide (1)/cover.jpg
+./books/calibre/John Schember/Calibre Quick Start Guide (1)/metadata.opf
+./books/calibre/Terence Parr
+./books/calibre/Terence Parr/The Definitive ANTLR 4 Reference (2)
+./books/calibre/Terence Parr/The Definitive ANTLR 4 Reference (2)/cover.jpg
+./books/calibre/Terence Parr/The Definitive ANTLR 4 Reference (2)/metadata.opf
+./books/calibre/Terence Parr/The Definitive ANTLR 4 Reference (2)/The Definitive ANTLR 4 Reference - Terence Parr.azw3
+./books/calibre/Terence Parr/The Definitive ANTLR 4 Reference (2)/The Definitive ANTLR 4 Reference - Terence Parr.mobi
+./books/calibre/Terence Parr/The Definitive ANTLR 4 Reference (2)/The Definitive ANTLR 4 Reference - Terence Parr.original_mobi
+./books/Casella.IntroducingMonteCarloWithR.pdf
+./books/casella_berger_statistical_inference1.pdf
+./books/Causality_ models, reasoning, and inference[Judea_Pearl].pdf
+./books/combinatorial-methods-in-density-estimation-devroye-lugosi.pdf
+./books/combinatorial_methods_density_estimation_devroye.pdf
+./books/common_lisp_book.pdf
+./books/competitive-programmer-handbook.pdf
+./books/Compilers Principles Techniques and Tools (2nd Edition) .pdf
+./books/complex_analysis_gamelin.pdf
+./books/Computational Genome Analysis.pdf
+./books/computational_science_and_engineering_strang.pdf
+./books/Computational_Topology_Edels.pdf
+./books/Computer Architecture A Quantitative Approach (5th edition).pdf
+./books/Computer_Networking_A_Top-Down_Approach.pdf
+./books/computervision_prince.pdf
+./books/concentration-inequalities-for-sums-and-martingales.pdf
+./books/concentration_and_margingale_inequalities.pdf
+./books/convex_opt_algorithms_and_complexity.pdf
+./books/convex_program_poly_algo.pdf
+./books/crowdsourced_data_management_parameswaran.pdf
+./books/CS149_Winter_2014-2015-01-08.zip
+./books/CSAPP.pdf
+./books/cuda_application_design_and_development.pdf
+./books/CUDA_by_Example_Addison_Wesley_Jul_2010.pdf
+./books/dale_carnegie_how_to_win_friends_and_influence_people.pdf
+./books/darwiche_modeling_and_reasoning_with_bayesian_nets.pdf
+./books/Data Mining Concepts and Techniques 3rd Edition.pdf
+./books/data-flow-analysis-theory-and-practice-khedker-sanyal-sathe.pdf
+./books/data_science_foundations_blum.pdf
+./books/databases-multicore.pdf
+./books/David G. Luenberger Introduction to Dynamic Systems- Theory, Models, and Applications  1979.pdf
+./books/design-and-impl-of-freebsd.pdf
+./books/design_patterns_gof.pdf
+./books/Dimitris Bertsimas, John N. Tsitsiklis Introduction to Linear Optimization  1997.pdf
+./books/discrete_differential_geometry.pdf
+./books/distributed-systems-an-algorithmic-approach-ghosh.pdf
+./books/distributed-systems-concepts-and-design-coulouris.pdf
+./books/Docker-in-Practice.pdf
+./books/Donald E. Kirk Optimal Control Theory. An Introduction  2004.pdf
+./books/ebook - W. Richard Stevens - Unix Network Programming Vol2.pdf
+./books/effective_java.pdf
+./books/elementary_differential_equations_and_boundary_value_problems.pdf
+./books/Elements_of_Information_Theory_2nd_Ed.pdf
+./books/elmasri_navathe_databases.pdf
+./books/Engineering A Compiler.pdf
+./books/envisioning-information-tufte.pdf
+./books/ESLII_print10.pdf
+./books/feller_prob_theory_v1.pdf
+./books/fortran_95_2003_explained_metcalf.pdf
+./books/fourier-transform-book-osgood.pdf
+./books/Gaiman, Neil - American Gods (2013, HarperTorch, 0380973650).pdf
+./books/galois-theory-for-beginners-stillwell.pdf
+./books/gaussian_processes_ml.pdf
+./books/Gelman - Bayesian Data Analysis.pdf
+./books/gfologyLinked2.pdf
+./books/gpu_computing_gems_emerald_edition.pdf
+./books/Gray,Hurst Analysis and Design of Analog Integrated Circuits  .pdf
+./books/Gray,Hurst Analysis and Design of Analog Integrated Circuits. Solutions  .pdf
+./books/Gregory R. Andrews Foundations Of Multithreaded Parallel And Distributed Programming  1999.pdf
+./books/hadoop_the_definitive_guide_3nd_edition.pdf
+./books/HDP-book.pdf
+./books/head_first_design_patterns.pdf
+./books/helloandroid.pdf
+./books/html_css_duckett.pdf
+./books/Hunter_BIO_CS.pdf
+./books/Information_physics_and_computation.pdf
+./books/information_retrieval.pdf
+./books/information_theory_inference_learning_algorithms_mackay.pdf
+./books/integral_transforms_and_applications_3e.pdf
+./books/Interactive Data Visualization for the Web.pdf
+./books/intro-convex-programming-lectures.pdf
+./books/intro-to-algorithms-clrs-3e.pdf
+./books/intro-to-distributed-systems.pdf
+./books/intro_theory_graph_spectra.pdf
+./books/intro_topology_adams_franzosa.pdf
+./books/Introduction to Computer Security pdf DONE.pdf
+./books/Introduction_to_Optimization_Chong_Zak.pdf
+./books/IntroLinearOptimizationOnlyCh12345.pdf
+./books/introtofinance.pdf
+./books/IntroToQueueingTheory_Cooper.pdf
+./books/IterMethBook_2ndEd.pdf
+./books/Java 8 Lambdas.pdf
+./books/java_reflection_in_action.pdf
+./books/javascript_good_parts.pdf
+./books/javascript_jquery_missing_manual_3rd_edition.pdf
+./books/jaynes_prob
+./books/jaynes_prob/cappal.ps
+./books/jaynes_prob/cappb6.ps
+./books/jaynes_prob/cappc1.ps
+./books/jaynes_prob/cappe1.ps
+./books/jaynes_prob/cc10i.ps
+./books/jaynes_prob/cc11g.ps
+./books/jaynes_prob/cc13s.ps
+./books/jaynes_prob/cc14g.ps
+./books/jaynes_prob/cc15w.ps
+./books/jaynes_prob/cc16u.ps
+./books/jaynes_prob/cc17b.ps
+./books/jaynes_prob/cc18f.ps
+./books/jaynes_prob/cc19g.ps
+./books/jaynes_prob/cc1p.ps
+./books/jaynes_prob/cc20b.ps
+./books/jaynes_prob/cc21a.ps
+./books/jaynes_prob/cc24f.ps
+./books/jaynes_prob/cc27d.ps
+./books/jaynes_prob/cc2m.ps
+./books/jaynes_prob/cc3o.ps
+./books/jaynes_prob/cc4o.ps
+./books/jaynes_prob/cc5d.ps
+./books/jaynes_prob/cc6k.ps
+./books/jaynes_prob/cc7m.ps
+./books/jaynes_prob/cc8k.ps
+./books/jaynes_prob/cc9g.ps
+./books/jaynes_prob/cfig15-1.ps
+./books/jaynes_prob/cfig4-1.ps
+./books/jaynes_prob/cfig6-1.ps
+./books/jaynes_prob/cfig6-2.ps
+./books/jcip.pdf
+./books/Jim Williams The Art and Science of Analog Circuit Design  1998.pdf
+./books/Jon Gertner-The Idea Factory_ Bell Labs and the Great Age of American Innovation-Penguin Press HC, The (2012).epub
+./books/jurafsky_martin_2e.pdf
+./books/kalman-filters-maybeck.pdf
+./books/KarlinTaylorIntrodStochModeling.pdf
+./books/Katsuhiko Ogata Modern Control Engineering  2001.pdf
+./books/Katsuhiko Ogata System Dynamics (4th Edition)  2003.pdf
+./books/L1bookBW.pdf
+./books/large_sample_theory_lehmann.pdf
+./books/LastRB.pdf
+./books/latex_companion.pdf
+./books/lawler_stochastic_processes.pdf
+./books/lcdbook.pdf
+./books/ldd3_pdf
+./books/ldd3_pdf/AUTHOR.COLO.pdf
+./books/ldd3_pdf/ch00.pdf
+./books/ldd3_pdf/ch01.pdf
+./books/ldd3_pdf/ch02.pdf
+./books/ldd3_pdf/ch03.pdf
+./books/ldd3_pdf/ch04.pdf
+./books/ldd3_pdf/ch05.pdf
+./books/ldd3_pdf/ch06.pdf
+./books/ldd3_pdf/ch07.pdf
+./books/ldd3_pdf/ch08.pdf
+./books/ldd3_pdf/ch09.pdf
+./books/ldd3_pdf/ch10.pdf
+./books/ldd3_pdf/ch11.pdf
+./books/ldd3_pdf/ch12.pdf
+./books/ldd3_pdf/ch13.pdf
+./books/ldd3_pdf/ch14.pdf
+./books/ldd3_pdf/ch15.pdf
+./books/ldd3_pdf/ch16.pdf
+./books/ldd3_pdf/ch17.pdf
+./books/ldd3_pdf/ch18.pdf
+./books/ldd3_pdf/COPYRIGHT.pdf
+./books/ldd3_pdf/ldr3IX.fm.pdf
+./books/ldd3_pdf/ldr3TOC.fm.pdf
+./books/ldd3_pdf/TITLE.pdf
+./books/Lecture6_Slides.pptx
+./books/Lecture_2_2015.pptx
+./books/lectures-on-modern-convex-optimization.pdf
+./books/LeeVaraiya_DigitalV2_02.pdf
+./books/Linux.Kernel.Development.3rd.Edition.pdf
+./books/Linux.System.Programming.pdf
+./books/linux_book.pdf
+./books/linux_kernel.pdf
+./books/lkn.pdf
+./books/lmibook.pdf
+./books/lucene_in_action_2nd_edition.pdf
+./books/Lucian Busoniu, Robert Babuska, Bart De Schutter, Damien Ernst Reinforcement Learning and Dynamic Programming Using Function Approximators (Automation and Control Engineering)  2010.pdf
+./books/Lue Devroye, Laszlo Gyorfi Nonparametric Density Estimation The L1 View.pdf
+./books/machine-learning-cheat-sheet.pdf
+./books/Machine_Learning-_A_Probabilistic_Perspective.pdf
+./books/make-drones-david-mcgriffy.pdf
+./books/maneatersofkumao029903mbp.pdf
+./books/Marc Rochkind Programming Chrome Apps.pdf
+./books/markov_logic_domingos.pdf
+./books/mas.pdf
+./books/mathematical-statistics-and-data-analysis-price-3e.pdf
+./books/mathstats_sahoo.pdf
+./books/matrix_cookbook.pdf
+./books/maven-definitive-guide.pdf
+./books/MCMCuseR.pdf
+./books/meyer_matrix_analysis
+./books/meyer_matrix_analysis/Acrobat
+./books/meyer_matrix_analysis/Acrobat/rs405eng.exe
+./books/meyer_matrix_analysis/Acrobat/rs405eng.hqx
+./books/meyer_matrix_analysis/bioindex.pdf
+./books/meyer_matrix_analysis/Bookfile.pdf
+./books/meyer_matrix_analysis/contents.pdf
+./books/meyer_matrix_analysis/launch.pdf
+./books/meyer_matrix_analysis/readme.htm
+./books/meyer_matrix_analysis/readme.pdf
+./books/meyer_matrix_analysis/solman.pdf
+./books/meyer_matrix_analysis/support
+./books/meyer_matrix_analysis/support/chinatl.pdf
+./books/meyer_matrix_analysis/support/chinatxt.pdf
+./books/meyer_matrix_analysis/support/collage.pdf
+./books/meyer_matrix_analysis/support/count.pdf
+./books/meyer_matrix_analysis/support/family.pdf
+./books/meyer_matrix_analysis/support/Golub.pdf
+./books/meyer_matrix_analysis/support/mathword.pdf
+./books/meyer_matrix_analysis/support/refs.pdf
+./books/meyer_matrix_analysis/support/saad.pdf
+./books/meyer_matrix_analysis/support/thanks.pdf
+./books/meyer_matrix_analysis/support/timeline.pdf
+./books/microservices-sam-newman.pdf
+./books/mit-mcs.pdf
+./books/mitchell_machine_learning.pdf
+./books/mma.pdf
+./books/modern_algebra_durbin.pdf
+./books/Monte Carlo Strategies In Scientific Computing.pdf
+./books/monte-carlo-simulation-and-finance-mcleish.pdf
+./books/MonteCarloStatisticalMethodsRobertCasella2e.pdf
+./books/MonteCarloStrategiesInScientificComputingLiu.pdf
+./books/more-money-than-god.epub
+./books/mpi-course.pdf
+./books/multilinear_algebra.pdf
+./books/Murach-Java-Servlets-and-JSP-2nd-Edition.pdf
+./books/network-warrior-gary-donahue-2e.pdf
+./books/Networks_Crowds_Markets_Easley_Kleinberg.pdf
+./books/neural-nets-nlp-goldberg.pdf
+./books/Nicholas Johnson, Eirik Sønneland Big Dead Place Inside the Strange and Menacing World of Antarctica.epub
+./books/Nicholas Johnson, Eirik Sønneland Big Dead Place Inside the Strange and Menacing World of Antarctica.mobi
+./books/nlp_collins.pdf
+./books/nonlinear_programming_dimitri_bertsekas.djvu
+./books/nonparametric_inference.pdf
+./books/norris_markov_chains.pdf
+./books/numerical_analysis_burden_faires_200.pdf
+./books/Numerical_Optimization.pdf
+./books/numerical_optimization_wright_nocedal
+./books/OCObook.pdf
+./books/ods-cpp.pdf
+./books/ods-java.pdf
+./books/ooc.pdf
+./books/options-futures-other-derivatives.pdf
+./books/oreilly_html_supp_book.pdf
+./books/ostep.pdf
+./books/own-mc
+./books/own-mc/Ch-intro.pdf
+./books/own-mc/Ch-nonunifrng.pdf
+./books/own-mc/Ch-processes.pdf
+./books/own-mc/Ch-quadrature.pdf
+./books/own-mc/Ch-randvectors.pdf
+./books/own-mc/Ch-unifrng.pdf
+./books/own-mc/Ch-var-adv.pdf
+./books/own-mc/Ch-var-basic.pdf
+./books/own-mc/Ch-var-is.pdf
+./books/own-mc/NOTE.txt
+./books/ParProcBook.pdf
+./books/Patterns for Parallel Programming - Timothy G. Mattson.pdf
+./books/patterson_comp_org_design.pdf
+./books/patterson_hennessy_supplementary
+./books/patterson_hennessy_supplementary/Appendix-C.pdf
+./books/patterson_hennessy_supplementary/Appendix-D.pdf
+./books/patterson_hennessy_supplementary/Appendix-E-P374493.pdf
+./books/patterson_hennessy_supplementary/CD2.15-P374493.pdf
+./books/patterson_hennessy_supplementary/CD4.12-P374493.pdf
+./books/patterson_hennessy_supplementary/CD5.9-P374493.pdf
+./books/patterson_hennessy_supplementary/CD6.11-P374493.pdf
+./books/penguin-classics-seneca-letters-from-a-stoic.pdf
+./books/Pong P. Chu FPGA Prototyping By Verilog Examples- Xilinx Spartan-3 Version  2008.pdf
+./books/Practical_Electronics_for_Inventors.pdf
+./books/Prentice.Hall.Database.Systems.The.Complete.Book.2nd.Edition.Jun.2008.pdf
+./books/Principle_Of_Computer_System_Design_An_Introduction.pdf
+./books/principles-of-computer-system-design-an-introduction-part2.pdf
+./books/PRML_solution_all.pdf
+./books/Probabilistic Graphical Models Principles and Techniques.pdf
+./books/probabilistic-methods-for-algorithmic-discrete-mathematics.pdf
+./books/Probability and Computing -  Randomized Algorithms and Probabilistic Analysis.pdf
+./books/probability-for-stats-and-ml-dasgupta.pdf
+./books/probability-theory-and-examples-durrett.pdf
+./books/probability_and_computing_mitzenmacher_2005.pdf
+./books/probability_theory_examples_4e.pdf
+./books/progit-en.1084.pdf
+./books/programming-in-lua-first-edition.pdf
+./books/programming_pearls_bentley.pdf
+./books/purely-functional-data-structures-chris-okasaki.pdf
+./books/Python for Data Analysis.pdf
+./books/Python Scripting for Computational Science.pdf
+./books/readings_in_db_systems_stonebraker.pdf
+./books/real-time-programming.pdf
+./books/realanal.pdf
+./books/regret_analysis_of_stochastic_and_nonstochastic_multi_armed_bandit_problems_bubeck_cesa_bianchi.pdf
+./books/REST in Practice.pdf
+./books/Reza N. Jazar Theory of Applied Robotics- Kinematics, Dynamics, and Control, Second Edition  2010.pdf
+./books/Richard S. Sutton, Andrew G. Barto Reinforcement learning- an introduction  1998.pdf
+./books/ross-mathematical-finance-3e.pdf
+./books/ross-probability-models-10e.pdf
+./books/ross-second-course-in-probability.pdf
+./books/ross-simulation-5e.pdf
+./books/Ruby On Rails Book (2006).pdf
+./books/sampling_design_and_analysis_lohr.pdf
+./books/sampling_techniques_cochran_3e.pdf
+./books/sams_teach_yourself_shell_programming_in_24_hours.pdf
+./books/scalabook.pdf
+./books/scientist-and-engineers-guide-to-dsp-steven-smith.pdf
+./books/sed-awk-dougherty-robbins-2e.pdf
+./books/SHENZHEN IO Manual.pdf
+./books/Skiena.-.TheAlgorithmDesignManual.pdf
+./books/smo-book.pdf
+./books/Solr-in-Action.pdf
+./books/Solutions-Manual-for-Complex-Analysis-by-T-W-Gamelin.pdf
+./books/sontag_mathematical_control_theory_springer98.pdf
+./books/specifying-systems-lamport.pdf
+./books/speech-language-processing-jurafsky-3e.pdf
+./books/springer_nonparametric_regression.pdf
+./books/stat-cookbook.pdf
+./books/stein_normal_approx.pdf
+./books/Stephen R. Covey The 7 Habits of Highly Effective People.pdf
+./books/stewart_calculus_early_trancendentals_6e.pdf
+./books/sun_han_heterogeneous_networks.pdf
+./books/svn-book.pdf
+./books/taocp
+./books/taocp/The_Art_Of_Computer_Programming_-_Volume_4__Donald_E._Knuth_.pdf
+./books/tcp_ip_technical_overview.pdf
+./books/tdd_by_example_beck.chm
+./books/tensorbook
+./books/tensorbook/ch0.pdf
+./books/tensorbook/ch1.pdf
+./books/tensorbook/ch2.pdf
+./books/tensorbook/ch3.pdf
+./books/tensorbook/ch4.pdf
+./books/tensorbook/ch5.pdf
+./books/tensorbook/ch6.pdf
+./books/tensorbook/ch7.pdf
+./books/tensorbook/ch8.pdf
+./books/tensorbook/references.pdf
+./books/tensorbook/tensorbook.pdf
+./books/the-grid-gretchen-bakke.epub
+./books/the-visual-display-of-quantitative-information-tufte.pdf
+./books/The_C_Programming_Language.pdf
+./books/Theory-of-Linear-and-Integer-Programming.pdf
+./books/thinkdsp.pdf
+./books/TPE-2.pdf
+./books/TSH-3.pdf
+./books/type-driven-development-with-idris-brady.pdf
+./books/type-theory-and-functional-programming-thompson.pdf
+./books/understanding-machine-learning-theory-algorithms.pdf
+./books/univariate_discrete_distributions_3e
+./books/univariate_discrete_distributions_3e/abbrev.pdf
+./books/univariate_discrete_distributions_3e/biblio.pdf
+./books/univariate_discrete_distributions_3e/ch1.pdf
+./books/univariate_discrete_distributions_3e/ch10.pdf
+./books/univariate_discrete_distributions_3e/ch11.pdf
+./books/univariate_discrete_distributions_3e/ch2.pdf
+./books/univariate_discrete_distributions_3e/ch3.pdf
+./books/univariate_discrete_distributions_3e/ch4.pdf
+./books/univariate_discrete_distributions_3e/ch5.pdf
+./books/univariate_discrete_distributions_3e/ch6.pdf
+./books/univariate_discrete_distributions_3e/ch7.pdf
+./books/univariate_discrete_distributions_3e/ch8.pdf
+./books/univariate_discrete_distributions_3e/ch9.pdf
+./books/univariate_discrete_distributions_3e/fmatter.pdf
+./books/univariate_discrete_distributions_3e/index.pdf
+./books/univariate_discrete_distributions_3e/scard.pdf
+./books/UNIX and Linux System Administration Handbook, 4th Edition - 2010.pdf
+./books/unix_network_programming_stevens_vol2.pdf
+./books/unix_network_programming_volume1_3rd_edition_stevens.pdf
+./books/unix_power_tools.pdf
+./books/Unwritten-Rules-of-PhD-Research.pdf
+./books/usb-in-a-nutshell.pdf
+./books/Verilog HDL - A Guide To Digital Design And Synthesis  2009.pdf
+./books/virtual_machines.8267490952.pdf
+./books/what-every-programmer-should-know-about-memory.pdf
+./books/wireshark_network_analysis.epub
+./books/wireshark_practical_packet_analysis.pdf
+./books/wirth-compiler-construction.pdf
+./books/zmq_akgul.pdf
+./books/zmq_oreilly.pdf
+./documents/.DS_Store
+./documents/anna_retreat_letter
+./documents/anna_retreat_letter/anna_kairos_letter.pdf
+./documents/anna_retreat_letter/letter.aux
+./documents/anna_retreat_letter/letter.dvi
+./documents/anna_retreat_letter/letter.log
+./documents/anna_retreat_letter/letter.tex
+./documents/brazil-visa
+./documents/brazil-visa/confirmation.txt
+./documents/brazil-visa/macke-passport-photo.jpg
+./documents/brazil-visa/passport_photo.jpg
+./documents/cop
+./documents/cop/IT Intern Profile Update.doc
+./documents/cop/macke_health_history.pdf
+./documents/cop/macke_payroll_form.pdf
+./documents/goldwater
+./documents/goldwater/goldwater_essay.docx
+./documents/goldwater/letter.aux
+./documents/goldwater/letter.dvi
+./documents/goldwater/letter.log
+./documents/goldwater/macke_goldwater_essay.aux
+./documents/goldwater/macke_goldwater_essay.log
+./documents/goldwater/macke_goldwater_essay.pdf
+./documents/goldwater/macke_goldwater_essay.tex
+./documents/goldwater/macke_goldwater_short_answer.docx
+./documents/goldwater/macke_sig.png
+./documents/goldwater/sample_essay.doc
+./documents/google-2018
+./documents/google-2018/google-i-9-complete-receipt.pdf
+./documents/google-summer-2018
+./documents/google-summer-2018/UnsignedDocument.pdf
+./documents/gradschool
+./documents/gradschool/.macke_aco_honors.tex.un~
+./documents/gradschool/.macke_math_sop.tex.un~
+./documents/gradschool/.macke_sop.tex.un~
+./documents/gradschool/.transcript_addresses.tex.un~
+./documents/gradschool/austin
+./documents/gradschool/austin/.macke_sop.tex.un~
+./documents/gradschool/austin/.sop_raw.un~
+./documents/gradschool/austin/macke_sop.aux
+./documents/gradschool/austin/macke_sop.log
+./documents/gradschool/austin/macke_sop.pdf
+./documents/gradschool/austin/macke_sop.tex
+./documents/gradschool/berkeley
+./documents/gradschool/berkeley/.macke_phs.tex.un~
+./documents/gradschool/berkeley/.macke_sop.tex.un~
+./documents/gradschool/berkeley/macke_phs.aux
+./documents/gradschool/berkeley/macke_phs.log
+./documents/gradschool/berkeley/macke_phs.pdf
+./documents/gradschool/berkeley/macke_phs.tex
+./documents/gradschool/berkeley/macke_sop.aux
+./documents/gradschool/berkeley/macke_sop.log
+./documents/gradschool/berkeley/macke_sop.pdf
+./documents/gradschool/berkeley/macke_sop.tex
+./documents/gradschool/cmu
+./documents/gradschool/cmu/macke_sop.aux
+./documents/gradschool/cmu/macke_sop.log
+./documents/gradschool/cmu/macke_sop.pdf
+./documents/gradschool/cmu/macke_sop.tex
+./documents/gradschool/cornell
+./documents/gradschool/cornell/macke_sop.aux
+./documents/gradschool/cornell/macke_sop.log
+./documents/gradschool/cornell/macke_sop.pdf
+./documents/gradschool/cornell/macke_sop.tex
+./documents/gradschool/gatech_aco
+./documents/gradschool/gatech_aco/gatech_sop.odt
+./documents/gradschool/gatech_aco/macke_aco_honors.aux
+./documents/gradschool/gatech_aco/macke_aco_honors.log
+./documents/gradschool/gatech_aco/macke_aco_honors.pdf
+./documents/gradschool/gatech_aco/macke_aco_honors.tex
+./documents/gradschool/gatech_aco/macke_aco_sop.tex
+./documents/gradschool/illinois
+./documents/gradschool/illinois/.macke_sop.tex.un~
+./documents/gradschool/illinois/2013
+./documents/gradschool/illinois/2013/macke_sop.aux
+./documents/gradschool/illinois/2013/macke_sop.log
+./documents/gradschool/illinois/2013/macke_sop.pdf
+./documents/gradschool/illinois/2013/macke_sop.tex
+./documents/gradschool/illinois/2014
+./documents/gradschool/illinois/2014/app_receipt.pdf
+./documents/gradschool/illinois/2014/macke_sop.aux
+./documents/gradschool/illinois/2014/macke_sop.log
+./documents/gradschool/illinois/2014/macke_sop.pdf
+./documents/gradschool/illinois/2014/macke_sop.tex
+./documents/gradschool/macke_personal_statement.tex
+./documents/gradschool/macke_prev_research.tex
+./documents/gradschool/resume
+./documents/gradschool/resume/.macke_resume.tex.un~
+./documents/gradschool/resume/macke_resume.log
+./documents/gradschool/resume/macke_resume.pdf
+./documents/gradschool/resume/macke_resume.tex
+./documents/gradschool/stanford
+./documents/gradschool/stanford/.macke_sop.tex.un~
+./documents/gradschool/stanford/macke_sop.aux
+./documents/gradschool/stanford/macke_sop.log
+./documents/gradschool/stanford/macke_sop.pdf
+./documents/gradschool/stanford/macke_sop.tex
+./documents/gradschool/transcript
+./documents/gradschool/transcript/.transcript_addresses.tex.un~
+./documents/gradschool/transcript/macke_bw_transcript.pdf
+./documents/gradschool/transcript/transcript_addresses.aux
+./documents/gradschool/transcript/transcript_addresses.log
+./documents/gradschool/transcript/transcript_addresses.pdf
+./documents/gradschool/transcript/transcript_addresses.tex
+./documents/gradschool/uci
+./documents/gradschool/uci/.macke_phs.tex.un~
+./documents/gradschool/uci/.macke_sop.tex.un~
+./documents/gradschool/uci/macke_phs.aux
+./documents/gradschool/uci/macke_phs.log
+./documents/gradschool/uci/macke_phs.pdf
+./documents/gradschool/uci/macke_phs.tex
+./documents/gradschool/uci/macke_sop.aux
+./documents/gradschool/uci/macke_sop.log
+./documents/gradschool/uci/macke_sop.pdf
+./documents/gradschool/uci/macke_sop.tex
+./documents/gradschool/ucsb
+./documents/gradschool/ucsb/.macke_phs.tex.un~
+./documents/gradschool/ucsb/.macke_sop.tex.un~
+./documents/gradschool/ucsb/macke_phs.aux
+./documents/gradschool/ucsb/macke_phs.log
+./documents/gradschool/ucsb/macke_phs.pdf
+./documents/gradschool/ucsb/macke_phs.tex
+./documents/gradschool/ucsb/macke_sop.aux
+./documents/gradschool/ucsb/macke_sop.log
+./documents/gradschool/ucsb/macke_sop.pdf
+./documents/gradschool/ucsb/macke_sop.tex
+./documents/gradschool/ucsd
+./documents/gradschool/ucsd/.macke_phs.tex.un~
+./documents/gradschool/ucsd/.macke_sop.tex.un~
+./documents/gradschool/ucsd/2013
+./documents/gradschool/ucsd/2013/macke_phs.aux
+./documents/gradschool/ucsd/2013/macke_phs.log
+./documents/gradschool/ucsd/2013/macke_phs.pdf
+./documents/gradschool/ucsd/2013/macke_phs.tex
+./documents/gradschool/ucsd/2013/macke_sop.aux
+./documents/gradschool/ucsd/2013/macke_sop.log
+./documents/gradschool/ucsd/2013/macke_sop.pdf
+./documents/gradschool/ucsd/2013/macke_sop.tex
+./documents/gradschool/ucsd/2014
+./documents/gradschool/ucsd/2014/macke_sop.aux
+./documents/gradschool/ucsd/2014/macke_sop.log
+./documents/gradschool/ucsd/2014/macke_sop.pdf
+./documents/gradschool/ucsd/2014/macke_sop.tex
+./documents/gradschool/umich
+./documents/gradschool/umich/.macke_phs.tex.un~
+./documents/gradschool/umich/.macke_resume.tex.un~
+./documents/gradschool/umich/.macke_sop.tex.un~
+./documents/gradschool/umich/macke_phs.aux
+./documents/gradschool/umich/macke_phs.log
+./documents/gradschool/umich/macke_phs.pdf
+./documents/gradschool/umich/macke_phs.tex
+./documents/gradschool/umich/macke_resume.log
+./documents/gradschool/umich/macke_resume.pdf
+./documents/gradschool/umich/macke_resume.tex
+./documents/gradschool/umich/macke_sop.aux
+./documents/gradschool/umich/macke_sop.log
+./documents/gradschool/umich/macke_sop.pdf
+./documents/gradschool/umich/macke_sop.tex
+./documents/gradschool/uwmath
+./documents/gradschool/uwmath/.macke_sop.tex.un~
+./documents/gradschool/uwmath/macke_sop.aux
+./documents/gradschool/uwmath/macke_sop.log
+./documents/gradschool/uwmath/macke_sop.pdf
+./documents/gradschool/uwmath/macke_sop.tex
+./documents/gradschool/uwmath/macke_supplementalform.pdf
+./documents/gradschool/washington
+./documents/gradschool/washington/.macke_sop.tex.un~
+./documents/gradschool/washington/macke_sop.aux
+./documents/gradschool/washington/macke_sop.log
+./documents/gradschool/washington/macke_sop.pdf
+./documents/gradschool/washington/macke_sop.tex
+./documents/graph_theory
+./documents/graph_theory/academic_papers
+./documents/graph_theory/academic_papers/28740288.pdf
+./documents/graph_theory/academic_papers/approx.ps
+./documents/graph_theory/academic_papers/steiner
+./documents/graph_theory/academic_papers/steiner/10.1.1.158.6410.pdf
+./documents/graph_theory/academic_papers/steiner/10.1.1.42.2446.pdf
+./documents/graph_theory/academic_papers/steiner/10.1.1.61.597.pdf
+./documents/graph_theory/academic_papers/steiner/dirsteiner.ps
+./documents/graph_theory/academic_papers/steiner/steinerpaper.pdf
+./documents/graph_theory/course_materials
+./documents/graph_theory/course_materials/10.1.1.135.5959.pdf
+./documents/graph_theory/course_materials/adv-lect3.pdf
+./documents/graph_theory/course_materials/all-notes-2010.pdf
+./documents/graph_theory/course_materials/GScanJMarch.ppt
+./documents/graph_theory/course_materials/matching.pdf
+./documents/graph_theory/course_materials/meng.ppt
+./documents/important
+./documents/important/50706831_Application.pdf
+./documents/important/BankingLetter.pdf
+./documents/important/important_cards.pdf
+./documents/important/macke_sig.eps
+./documents/important/macke_sig.png
+./documents/important/passport_photo.pdf
+./documents/important/ssn.png
+./documents/important/VisaInvitation-Macke.pdf
+./documents/interesting
+./documents/interesting/chistory.ps
+./documents/interesting/data_mining
+./documents/interesting/data_mining/dami03_fpgrowth.pdf
+./documents/interesting/data_mining/dartmouth_streaming.pdf
+./documents/interesting/data_mining/fp_tree_jiawei.pdf
+./documents/interesting/dynprog.pdf
+./documents/interesting/ECSHonsTalka.pptx
+./documents/interesting/gfs-sosp2003.pdf
+./documents/interesting/Hackenbush.pdf
+./documents/interesting/Heron.pdf
+./documents/interesting/holder.pdf
+./documents/interesting/howtosoftbody.pdf
+./documents/interesting/mcs_cheatsheet.pdf
+./documents/interesting/merge.ps
+./documents/interesting/ml
+./documents/interesting/ml/crf-tutorial.pdf
+./documents/interesting/ml/gibbs_sampling_for_uninitiated.pdf
+./documents/interesting/ml/guideTR.pdf
+./documents/interesting/ml/nnintro.pdf
+./documents/interesting/ml/painless-conjugate-gradient.pdf
+./documents/interesting/ml/PCA-Tutorial.pdf
+./documents/interesting/ml/principal_components.pdf
+./documents/interesting/ml/topology_and_data.pdf
+./documents/interesting/mod_sqrts.pdf
+./documents/interesting/olympiad_math
+./documents/interesting/olympiad_math/ClubSet2.pdf
+./documents/interesting/olympiad_math/KedlayaInequalities.pdf
+./documents/interesting/olympiad_math/MildorfInequalities.pdf
+./documents/interesting/olympiad_math/PolynomialsAK.pdf
+./documents/interesting/pgms
+./documents/interesting/pgms/ldpc.pdf
+./documents/interesting/probability
+./documents/interesting/probability/1_balls_into_bins.pdf
+./documents/interesting/probability/balls.ps
+./documents/interesting/probability/stats-310a-notes.pdf
+./documents/interesting/SatoNT.pdf
+./documents/interesting/savvis_puzzles
+./documents/interesting/savvis_puzzles/delsols.py
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (11011)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (11711)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (122010)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (1311)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (13111)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (21411)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (22111)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (2711)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (31411)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (32111)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (32811)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (3711)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (41111)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (5211)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (52311)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (5611)
+./documents/interesting/savvis_puzzles/Puzzle of the Week Solution (61311)
+./documents/interesting/savvis_puzzles/Stephen@169.254.102.196
+./documents/interesting/scam_paper.pdf
+./documents/interesting/stack_smashing.pdf
+./documents/interesting/stats
+./documents/interesting/stats/f-transform.pdf
+./documents/interesting/stats/geyer_umn_statistics
+./documents/interesting/stats/geyer_umn_statistics/n.pdf
+./documents/interesting/stats/geyer_umn_statistics/n2.pdf
+./documents/interesting/stats/geyer_umn_statistics/ntoc.pdf
+./documents/interesting/stats/jtaylor_asu_stats
+./documents/interesting/stats/jtaylor_asu_stats/lecture1.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture10.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture11.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture12.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture13.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture14.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture15.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture16.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture17.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture18.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture19.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture2.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture20.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture21.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture22.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture23.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture24.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture25.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture26.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture27.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture28.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture3.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture5.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture6.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture7.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture8.pdf
+./documents/interesting/stats/jtaylor_asu_stats/lecture9.pdf
+./documents/interesting/stats/unconscious-statistician.pdf
+./documents/interesting/techpacks
+./documents/interesting/techpacks/cloud_computing.pdf
+./documents/interesting/techpacks/JourneymanTour.pdf
+./documents/interesting/twelvefoldway.pdf
+./documents/khanacademy-cover
+./documents/khanacademy-cover/macke_khan_cover.aux
+./documents/khanacademy-cover/macke_khan_cover.log
+./documents/khanacademy-cover/macke_khan_cover.pdf
+./documents/khanacademy-cover/macke_khan_cover.tex
+./documents/letters
+./documents/letters/letters-to-ben
+./documents/letters/letters-to-ben/ben-letter-16-12-14.aux
+./documents/letters/letters-to-ben/ben-letter-16-12-14.log
+./documents/letters/letters-to-ben/ben-letter-16-12-14.pdf
+./documents/letters/letters-to-ben/ben-letter-16-12-14.tex
+./documents/letters/letters-to-ben/ben-letter-16-12-29.aux
+./documents/letters/letters-to-ben/ben-letter-16-12-29.log
+./documents/letters/letters-to-ben/ben-letter-16-12-29.out
+./documents/letters/letters-to-ben/ben-letter-16-12-29.pdf
+./documents/letters/letters-to-ben/ben-letter-16-12-29.tex
+./documents/letters/letters-to-ben/ben-letter-17-07-22.aux
+./documents/letters/letters-to-ben/ben-letter-17-07-22.log
+./documents/letters/letters-to-ben/ben-letter-17-07-22.out
+./documents/letters/letters-to-ben/ben-letter-17-07-22.pdf
+./documents/letters/letters-to-ben/ben-letter-17-07-22.tex
+./documents/letters/macke_sig.png
+./documents/letters/Makefile
+./documents/letters/psletter
+./documents/letters/psletter/2011
+./documents/letters/psletter/2011/macke_psletter.pdf
+./documents/letters/psletter/2011/psletter.aux
+./documents/letters/psletter/2011/psletter.dvi
+./documents/letters/psletter/2011/psletter.log
+./documents/letters/psletter/2011/psletter.lyx
+./documents/letters/psletter/2011/psletter.lyx~
+./documents/letters/psletter/2012
+./documents/letters/psletter/2012/macke_ps_letter_2012.aux
+./documents/letters/psletter/2012/macke_ps_letter_2012.log
+./documents/letters/psletter/2012/macke_ps_letter_2012.pdf
+./documents/letters/psletter/2012/macke_ps_letter_2012.tex
+./documents/letters/psletter/2012/macke_sig.png
+./documents/letters/tyjack2011
+./documents/letters/tyjack2011/tyletterjack.aux
+./documents/letters/tyjack2011/tyletterjack.log
+./documents/letters/tyjack2011/tyletterjack.pdf
+./documents/letters/tyjack2011/tyletterjack.tex
+./documents/letters/tyjack2012
+./documents/letters/tyjack2012/letter.aux
+./documents/letters/tyjack2012/letter.dvi
+./documents/letters/tyjack2012/letter.log
+./documents/letters/tyjack2012/letter.pdf
+./documents/letters/tyjack2012/letter.tex
+./documents/letters/tyjack2012/macke_sig.png
+./documents/letters/wells-fargo-credit-app
+./documents/letters/wells-fargo-credit-app/wells-fargo-letter.aux
+./documents/letters/wells-fargo-credit-app/wells-fargo-letter.log
+./documents/letters/wells-fargo-credit-app/wells-fargo-letter.out
+./documents/letters/wells-fargo-credit-app/wells-fargo-letter.pdf
+./documents/letters/wells-fargo-credit-app/wells-fargo-letter.tex
+./documents/log
+./documents/log/2013
+./documents/log/2013/7-july
+./documents/log/2013/7-july/.10.app.txt.un~
+./documents/log/2013/7-july/.10.txt.un~
+./documents/log/2013/7-july/.11.txt.un~
+./documents/log/2013/7-july/.8.txt.un~
+./documents/log/2013/7-july/.9.txt.un~
+./documents/log/2013/7-july/10.txt
+./documents/log/2013/7-july/11.txt
+./documents/log/2013/7-july/12.txt
+./documents/log/2013/7-july/13.txt
+./documents/log/2013/7-july/13.txt~
+./documents/log/2013/7-july/14.txt
+./documents/log/2013/7-july/14.txt~
+./documents/log/2013/7-july/15.txt
+./documents/log/2013/7-july/15.txt~
+./documents/log/2013/7-july/16.txt
+./documents/log/2013/7-july/16.txt~
+./documents/log/2013/7-july/17.txt
+./documents/log/2013/7-july/17.txt~
+./documents/log/2013/7-july/20.txt
+./documents/log/2013/7-july/21.txt
+./documents/log/2013/7-july/8.txt
+./documents/log/2013/7-july/9.txt
+./documents/log/2013/8-august
+./documents/log/2013/8-august/12.txt
+./documents/log/2013/8-august/12.txt~
+./documents/log/2013/8-august/13.txt
+./documents/log/2013/8-august/13.txt~
+./documents/log/2013/8-august/14.txt
+./documents/log/2013/8-august/14.txt~
+./documents/log/2013/8-august/15.txt
+./documents/log/2013/8-august/17.txt
+./documents/log/2013/8-august/17.txt~
+./documents/log/2013/8-august/19.txt
+./documents/log/2013/8-august/3.txt
+./documents/log/2013/8-august/3.txt~
+./documents/log/2013/9-september
+./documents/log/2013/9-september/1.txt
+./documents/log/2013/9-september/17.txt
+./documents/log/2013/9-september/25.txt
+./documents/log/2013/9-september/25.txt~
+./documents/medical
+./documents/medical/note.txt
+./documents/meetings
+./documents/meetings/aditya-meeting
+./documents/meetings/aditya-meeting/FA15QualStatementForm_1.pdf
+./documents/meetings/aditya-meeting/fastmatch-meeting-2017-02-14.pptx
+./documents/meetings/aditya-meeting/meetings.txt
+./documents/meetings/dm-group-meeting
+./documents/meetings/dm-group-meeting/deep-learning
+./documents/meetings/dm-group-meeting/deep-learning/CS224d-Lecture1.pdf
+./documents/meetings/dm-group-meeting/deep-learning/deep_learning.pdf
+./documents/meetings/dm-group-meeting/deep-learning/deep_learning.pptx
+./documents/meetings/dm-group-meeting/deep-learning/equations.aux
+./documents/meetings/dm-group-meeting/deep-learning/equations.log
+./documents/meetings/dm-group-meeting/deep-learning/equations.pdf
+./documents/meetings/dm-group-meeting/deep-learning/equations.tex
+./documents/meetings/dm-group-meeting/deep-learning/ideas.txt
+./documents/meetings/dm-group-meeting/deep-learning/Makefile
+./documents/meetings/dm-group-meeting/deep-learning/ner.tiff
+./documents/meetings/dm-group-meeting/deep-learning/scribe.sty
+./documents/meetings/dm-group-meeting/summary-fall-2016
+./documents/meetings/dm-group-meeting/summary-fall-2016/smacke_summary.pdf
+./documents/meetings/dm-group-meeting/summary-fall-2016/smacke_summary.pptx
+./documents/meetings/dm-group-meeting/summary-spring-2016
+./documents/meetings/dm-group-meeting/summary-spring-2016/smacke_summary.pdf
+./documents/meetings/dm-group-meeting/summary-spring-2016/smacke_summary.pptx
+./documents/meetings/dm-group-meeting/summary-spring-2017
+./documents/meetings/dm-group-meeting/summary-spring-2017/smacke_summary.pdf
+./documents/meetings/dm-group-meeting/summary-spring-2017/smacke_summary.pptx
+./documents/meetings/dm-group-meeting/zen-sim-sampling
+./documents/meetings/dm-group-meeting/zen-sim-sampling/dmg_cvxopt_pres.pdf
+./documents/meetings/dm-group-meeting/zen-sim-sampling/dmg_cvxopt_pres.pdf.bak
+./documents/meetings/dm-group-meeting/zen-sim-sampling/qual_slides.pptx
+./documents/meetings/dm-group-meeting/zen-sim-sampling/smacke_dmg_viz_approx.pptx
+./documents/meetings/dm-group-meeting/zen-sim-sampling/smacke_qual_slides.pdf
+./documents/meetings/i2-meetings
+./documents/meetings/i2-meetings/.ipynb_checkpoints
+./documents/meetings/i2-meetings/.ipynb_checkpoints/sigmoids-checkpoint.ipynb
+./documents/meetings/i2-meetings/crimea.pdf
+./documents/meetings/i2-meetings/sigmoids.ipynb
+./documents/meetings/prof-han-meeting
+./documents/meetings/prof-han-meeting/15-10-05-mon
+./documents/meetings/prof-han-meeting/15-10-05-mon/macke-15-10-05-outline.pdf
+./documents/meetings/prof-han-meeting/15-10-05-mon/macke-15-10-05-outline.pptx
+./documents/meetings/prof-han-meeting/15-10-05-mon/pres.txt
+./documents/meetings/prof-han-meeting/15-11-10-tues
+./documents/meetings/prof-han-meeting/15-11-10-tues/smacke_11_10_meeting_outline.pdf
+./documents/meetings/prof-han-meeting/15-11-10-tues/smacke_11_10_meeting_outline.pptx
+./documents/meetings/prof-han-meeting/15-11-10-tues/yelp.html
+./documents/meetings/prof-han-meeting/16-09-16
+./documents/meetings/prof-han-meeting/16-09-16/todo.txt
+./documents/meetings/prof-han-meeting/16-09-27-tues
+./documents/meetings/prof-han-meeting/16-09-27-tues/smacke-slides-16-09-27.pdf
+./documents/meetings/prof-han-meeting/16-09-27-tues/smacke-slides-16-09-27.pptx
+./documents/meetings/prof-han-meeting/17-01-24-wed
+./documents/meetings/prof-han-meeting/17-01-24-wed/table-cell-extract.pdf
+./documents/meetings/prof-han-meeting/17-01-24-wed/table-cell-extract.pptx
+./documents/meetings/viz-sampling-meeting-2018-02-12.pptx
+./documents/misc
+./documents/misc/funny_chat_log.txt
+./documents/ndseg
+./documents/ndseg/.macke_sog.tex.un~
+./documents/ndseg/macke_sog.aux
+./documents/ndseg/macke_sog.log
+./documents/ndseg/macke_sog.pdf
+./documents/ndseg/macke_sog.tex
+./documents/nsf_grfp
+./documents/nsf_grfp/.DS_Store
+./documents/nsf_grfp/.macke_nsf_essay.tex.un~
+./documents/nsf_grfp/.macke_prev_research.tex.un~
+./documents/nsf_grfp/2012
+./documents/nsf_grfp/2012/personal_stat
+./documents/nsf_grfp/2012/personal_stat/macke_personal_statement.aux
+./documents/nsf_grfp/2012/personal_stat/macke_personal_statement.log
+./documents/nsf_grfp/2012/personal_stat/macke_personal_statement.pdf
+./documents/nsf_grfp/2012/personal_stat/macke_personal_statement.tex
+./documents/nsf_grfp/2012/prev_research
+./documents/nsf_grfp/2012/prev_research/macke_prev_research.aux
+./documents/nsf_grfp/2012/prev_research/macke_prev_research.log
+./documents/nsf_grfp/2012/prev_research/macke_prev_research.pdf
+./documents/nsf_grfp/2012/prev_research/macke_prev_research.tex
+./documents/nsf_grfp/2012/proposal
+./documents/nsf_grfp/2012/proposal/.macke_proposal.tex.un~
+./documents/nsf_grfp/2012/proposal/macke_proposal.aux
+./documents/nsf_grfp/2012/proposal/macke_proposal.log
+./documents/nsf_grfp/2012/proposal/macke_proposal.tex
+./documents/nsf_grfp/2012/proposal/macke_proposal_2012.pdf
+./documents/nsf_grfp/2012/proposal/macke_proposal_goldwater.pdf
+./documents/nsf_grfp/2012/ViewApplReview.pdf
+./documents/nsf_grfp/2013
+./documents/nsf_grfp/2013/acceptAward.pdf
+./documents/nsf_grfp/2013/eligibility
+./documents/nsf_grfp/2013/eligibility/macke_eligibility.aux
+./documents/nsf_grfp/2013/eligibility/macke_eligibility.log
+./documents/nsf_grfp/2013/eligibility/macke_eligibility.pdf
+./documents/nsf_grfp/2013/eligibility/macke_eligibility.tex
+./documents/nsf_grfp/2013/macke_stanford_transcript.pdf
+./documents/nsf_grfp/2013/macke_utulsa_transcript.pdf
+./documents/nsf_grfp/2013/personal_stat
+./documents/nsf_grfp/2013/personal_stat/macke_sop.aux
+./documents/nsf_grfp/2013/personal_stat/macke_sop.log
+./documents/nsf_grfp/2013/personal_stat/macke_sop.pdf
+./documents/nsf_grfp/2013/personal_stat/macke_sop.tex
+./documents/nsf_grfp/2013/proposal
+./documents/nsf_grfp/2013/proposal/.macke_proposal.tex.swp
+./documents/nsf_grfp/2013/proposal/.macke_proposal.tex.un~
+./documents/nsf_grfp/2013/proposal/macke_proposal.aux
+./documents/nsf_grfp/2013/proposal/macke_proposal.log
+./documents/nsf_grfp/2013/proposal/macke_proposal.pdf
+./documents/nsf_grfp/2013/proposal/macke_proposal.tex
+./documents/nsf_grfp/2013/ViewApplReview2014.pdf
+./documents/nsf_grfp/activities_1415
+./documents/nsf_grfp/activities_1415/advisor_confirmation.pdf
+./documents/nsf_grfp/activities_1415/content.tex
+./documents/nsf_grfp/activities_1415/macke_activities.aux
+./documents/nsf_grfp/activities_1415/macke_activities.log
+./documents/nsf_grfp/activities_1415/macke_activities.pdf
+./documents/nsf_grfp/activities_1415/macke_activities.tex
+./documents/nsf_grfp/activities_1415/texput.log
+./documents/nsf_grfp/activities_1415/ViewActvReport.pdf
+./documents/nsf_grfp/activities_1516
+./documents/nsf_grfp/activities_1516/content.tex
+./documents/nsf_grfp/activities_1516/macke_activities.aux
+./documents/nsf_grfp/activities_1516/macke_activities.log
+./documents/nsf_grfp/activities_1516/macke_activities.pdf
+./documents/nsf_grfp/activities_1516/macke_activities.tex
+./documents/nsf_grfp/activities_1516/nsf_advisor_sig.pdf
+./documents/nsf_grfp/activities_1516/texput.log
+./documents/nsf_grfp/activities_1617
+./documents/nsf_grfp/activities_1617/content.tex
+./documents/nsf_grfp/activities_1617/macke_activities.aux
+./documents/nsf_grfp/activities_1617/macke_activities.log
+./documents/nsf_grfp/activities_1617/macke_activities.pdf
+./documents/nsf_grfp/activities_1617/macke_activities.tex
+./documents/nsf_grfp/activities_1617/nsf_advisor_sig.pdf
+./documents/nsf_grfp/activities_1617/texput.log
+./documents/nsf_grfp/activities_1718
+./documents/nsf_grfp/activities_1718/activity-report-summary.pdf
+./documents/nsf_grfp/activities_1718/content.tex
+./documents/nsf_grfp/activities_1718/FacultyAdvisorConfirmationForm.pdf
+./documents/nsf_grfp/activities_1718/FacultyAdvisorConfirmationFormFilled.pdf
+./documents/nsf_grfp/activities_1718/FacultyAdvisorConfirmationFormFilledSigned.pdf
+./documents/nsf_grfp/activities_1718/macke_activities.aux
+./documents/nsf_grfp/activities_1718/macke_activities.log
+./documents/nsf_grfp/activities_1718/macke_activities.pdf
+./documents/nsf_grfp/activities_1718/macke_activities.tex
+./documents/nsf_grfp/activities_1718/texput.log
+./documents/palantir2012
+./documents/palantir2012/last_day_photos
+./documents/palantir2012/last_day_photos/calm_force.jpg
+./documents/palantir2012/last_day_photos/focused_force.jpg
+./documents/palantir2012/last_day_photos/hello_smacke.jpg
+./documents/palantir2012/last_day_photos/ladies.jpg
+./documents/palantir2012/last_day_photos/peace.jpg
+./documents/palantir2012/last_day_photos/rock_on.jpg
+./documents/palantir2012/palantir.pptx
+./documents/palantir2012/presentation
+./documents/palantir2012/presentation/.Makefile.un~
+./documents/palantir2012/presentation/.scse.tex.un~
+./documents/palantir2012/presentation/.scse_presentation.tex.un~
+./documents/palantir2012/presentation/funs.png
+./documents/palantir2012/presentation/HashTree.pdf
+./documents/palantir2012/presentation/lightweight.aux
+./documents/palantir2012/presentation/lightweight.log
+./documents/palantir2012/presentation/lightweight.nav
+./documents/palantir2012/presentation/lightweight.out
+./documents/palantir2012/presentation/lightweight.pdf
+./documents/palantir2012/presentation/lightweight.snm
+./documents/palantir2012/presentation/lightweight.tex
+./documents/palantir2012/presentation/lightweight.toc
+./documents/palantir2012/presentation/lucene_segments.png
+./documents/palantir2012/presentation/macke_pres.tex
+./documents/palantir2012/presentation/Makefile
+./documents/palantir2012/presentation/MappingStep.pdf
+./documents/palantir2012/presentation/qtree_aux.png
+./documents/palantir2012/presentation/qtree_aux_processed.png
+./documents/palantir2012/presentation/scse.aux
+./documents/palantir2012/presentation/scse.log
+./documents/palantir2012/presentation/scse.nav
+./documents/palantir2012/presentation/scse.out
+./documents/palantir2012/presentation/scse.pdf
+./documents/palantir2012/presentation/scse.snm
+./documents/palantir2012/presentation/scse.toc
+./documents/palantir2012/presentation/strcontain.png
+./documents/palantir2012/presentation/strnocontain.png
+./documents/palantir2012/QueryParserIntegrationTest.java
+./documents/pop2012
+./documents/pop2012/brownian.pdf
+./documents/pop2012/CUDA_Occupancy_Calculator.xls
+./documents/pop2012/CUDA_Occupancy_Calculator.xls (Case Conflict 1)
+./documents/pop2012/Macke_timesheet_6_23_12.xlsx
+./documents/pop2012/Macke_timesheet_7_21_12.xlsx
+./documents/pop2012/Macke_timesheet_7_7_12.xlsx
+./documents/pop2012/Macke_timesheet_8_18_12.xlsx
+./documents/pop2012/Macke_timesheet_8_4_12.xlsx
+./documents/pop2012/paper.pdf
+./documents/pop2012/POP REU '12 poster template.pptx
+./documents/pop2012/POP REU Schedule 2012.docx
+./documents/pop2012/prepwork
+./documents/pop2012/prepwork/a4_pthreads.pdf
+./documents/pop2012/prepwork/pp_background.pdf
+./documents/pop2012/prezi2
+./documents/pop2012/prezi2/potential.aux
+./documents/pop2012/prezi2/potential.log
+./documents/pop2012/prezi2/potential.pdf
+./documents/pop2012/prezi2/potential1.aux
+./documents/pop2012/prezi2/potential1.eps
+./documents/pop2012/prezi2/potential1.log
+./documents/pop2012/prezi2/potential1.pdf
+./documents/pop2012/prezi2/potential1.tex
+./documents/pop2012/prezi2/potential2.aux
+./documents/pop2012/prezi2/potential2.log
+./documents/pop2012/prezi2/potential2.pdf
+./documents/pop2012/prezi2/potential2.tex
+./documents/pop2012/prezi2/potential3.aux
+./documents/pop2012/prezi2/potential3.log
+./documents/pop2012/prezi2/potential3.pdf
+./documents/pop2012/prezi2/potential3.tex
+./documents/pop2012/prezi2/template.aux
+./documents/pop2012/prezi2/template.log
+./documents/pop2012/prezi2/template.pdf
+./documents/pop2012/prezi2/template.tex
+./documents/pop2012/RiWeZaEa2009.pdf
+./documents/qual
+./documents/qual/past-exams
+./documents/qual/past-exams/DAIS Qual Sp14.pdf
+./documents/qual/past-exams/DAIS Sp14 Qual.pdf
+./documents/qual/past-exams/dais-qual-f14.pdf
+./documents/qual/past-exams/dais-qual-f15.pdf
+./documents/qual/past-exams/DAISQual-2016S.pdf
+./documents/qual/past-exams/qual-f2013.pdf
+./documents/qual/smacke_fa16_qual_statement_form.pdf
+./documents/reference
+./documents/reference/bash-history-cheat-sheet.pdf
+./documents/reference/emacs_refcard.pdf
+./documents/reference/inequalities.pdf
+./documents/reference/Markdown_Cheat_Sheet.pdf
+./documents/reference/shell-startup-actual.png
+./documents/resume
+./documents/resume/.macke_resume.tex.un~
+./documents/resume/.macke_resume.txt.un~
+./documents/resume/.res2.tex.un~
+./documents/resume/coursera_certs
+./documents/resume/coursera_certs/vp_cert.pdf
+./documents/resume/enumitem.sty
+./documents/resume/macke_cv.aux
+./documents/resume/macke_cv.dvi
+./documents/resume/macke_cv.log
+./documents/resume/macke_cv.pdf
+./documents/resume/macke_cv.tex
+./documents/resume/macke_cv_web.aux
+./documents/resume/macke_cv_web.log
+./documents/resume/macke_cv_web.pdf
+./documents/resume/macke_cv_web.tex
+./documents/resume/macke_resume.log
+./documents/resume/macke_resume.pdf
+./documents/resume/macke_resume.tex
+./documents/resume/macke_resume.txt
+./documents/resume/macke_unofficial_transcript.pdf
+./documents/resume/macke_utulsa_transcript.pdf
+./documents/resume/PE
+./documents/resume/PE/res2.log
+./documents/resume/PE/res2.pdf
+./documents/resume/PE/res2.tex
+./documents/resume/phd_recs_round2
+./documents/resume/phd_recs_round2/macke_cv.aux
+./documents/resume/phd_recs_round2/macke_cv.log
+./documents/resume/phd_recs_round2/macke_cv.pdf
+./documents/resume/phd_recs_round2/macke_cv.tex
+./documents/resume/phd_recs_round2/res.cls
+./documents/resume/res.cls
+./documents/resume/res2.dvi
+./documents/resume/res2.log
+./documents/resume/res2.pdf
+./documents/resume/res2.tex
+./documents/resume/ressmall.dvi
+./documents/resume/ressmall.log
+./documents/resume/ressmall.pdf
+./documents/resume/ressmall.tex
+./documents/resume/scrbase.sty
+./documents/resume/scrextend.sty
+./documents/resume/scrkbase.sty
+./documents/resume/scrlfile.sty
+./documents/reu_apps_2012
+./documents/reu_apps_2012/hmudd
+./documents/reu_apps_2012/hmudd/hmudd_statement.aux
+./documents/reu_apps_2012/hmudd/hmudd_statement.dvi
+./documents/reu_apps_2012/hmudd/hmudd_statement.log
+./documents/reu_apps_2012/hmudd/hmudd_statement.pdf
+./documents/reu_apps_2012/hmudd/hmudd_statement.tex
+./documents/reu_apps_2012/incomplete_illinois_app.doc
+./documents/reu_apps_2012/reutemplate.doc
+./documents/reu_apps_2012/transcript_request
+./documents/reu_apps_2012/transcript_request/macke_request.aux
+./documents/reu_apps_2012/transcript_request/macke_request.log
+./documents/reu_apps_2012/transcript_request/macke_request.pdf
+./documents/reu_apps_2012/transcript_request/macke_request.tex
+./documents/reu_apps_2012/transcript_request/macke_sig.png
+./documents/reu_apps_2012/umass
+./documents/reu_apps_2012/umass/umass_personal_statement.aux
+./documents/reu_apps_2012/umass/umass_personal_statement.dvi
+./documents/reu_apps_2012/umass/umass_personal_statement.log
+./documents/reu_apps_2012/umass/umass_personal_statement.pdf
+./documents/reu_apps_2012/umass/umass_personal_statement.tex
+./documents/reu_apps_2012/washu
+./documents/reu_apps_2012/washu/washu_personal_statement.aux
+./documents/reu_apps_2012/washu/washu_personal_statement.dvi
+./documents/reu_apps_2012/washu/washu_personal_statement.log
+./documents/reu_apps_2012/washu/washu_personal_statement.pdf
+./documents/reu_apps_2012/washu/washu_personal_statement.tex
+./documents/scotland
+./documents/scotland/essays
+./documents/scotland/essays/macke_cge_essay.pdf
+./documents/scotland/essays/macke_edinburgh_essay.pdf
+./documents/scotland/essays/macke_ifsa_butler_essays.pdf
+./documents/scotland/important_cards.pdf
+./documents/scotland/macke_departure-form.pdf
+./documents/scotland/macke_passport_app.pdf
+./documents/scotland/macke_rush-transcript.pdf
+./documents/scotland/passport_photo.pdf
+./documents/stanford
+./documents/stanford/CA_app_fall_2013.txt
+./documents/stanford/CA_app_fall_2014.txt
+./documents/stanford/CA_app_spring_2014.txt
+./documents/stanford/CA_app_spring_2015.txt
+./documents/stanford/CA_app_winter_2014.txt
+./documents/stanford/CA_app_winter_2015.txt
+./documents/stanford/courses_spring_2014.txt
+./documents/stanford/courses_winter_2014.txt
+./documents/stanford/CS149_All_Grades.xlsx
+./documents/stanford/macke_stanford_transcript_open_with_adobe_reader_in_windows.pdf
+./documents/stanford/NewStudentOrientation.pdf
+./documents/stanford/psguide1314.pdf
+./documents/stanford/rcc
+./documents/stanford/rcc/grad-rcc-app_14-15.pdf
+./documents/stanford/rcc/grad-rcc-contract_1415.pdf
+./documents/stanford/rcc/i-9.pdf
+./documents/stanford/xr_WorkCentre7775.ppd
+./documents/task-warrior-home
+./documents/task-warrior-home/backlog.data
+./documents/task-warrior-home/ca.cert.pem
+./documents/task-warrior-home/client.cert.pem
+./documents/task-warrior-home/client.key.pem
+./documents/task-warrior-home/completed.data
+./documents/task-warrior-home/hooks
+./documents/task-warrior-home/pending.data
+./documents/task-warrior-home/undo.data
+./documents/taxes
+./documents/taxes/2012
+./documents/taxes/2012/2012 Macke S Form 1040  Individual Tax Return.tax2012
+./documents/taxes/2012/2012 Macke S Form 1040  Individual Tax Return_Records.pdf
+./documents/taxes/2013
+./documents/taxes/2013/0444_001.pdf
+./documents/taxes/2013/books.txt
+./documents/taxes/2013/mo_2013_income_tax_payment_voucher.pdf
+./documents/taxes/2013/stanford_1098t_2013.pdf
+./documents/taxes/2013/TaxReturn.pdf
+./documents/taxes/2013/tu_1098t_2013.pdf
+./documents/taxes/2014
+./documents/taxes/2014/2014TurboTaxReturn.pdf
+./documents/taxes/2014/mo_payment_voucher.pdf
+./documents/taxes/2014/palantir_w2_2014.pdf
+./documents/taxes/2014/stanford_w2_2014.pdf
+./documents/taxes/2014/TCRSForm1098t.pdf
+./documents/taxes/2015
+./documents/taxes/2015/illinois-file-by-mail.pdf
+./documents/taxes/2015/mo-pay-by-check.pdf
+./documents/taxes/2015/stanford_1098t_2015.pdf
+./documents/taxes/2015/stanford_w2_2015.pdf
+./documents/taxes/2016
+./documents/taxes/2016/268d722d-bbf9-4345-ad2a-f815b7996d0c.pdf
+./documents/taxes/CP_575_G_Notice.pdf
+./documents/teacherprize
+./documents/teacherprize/.macke_teacherprize.tex.un~
+./documents/teacherprize/macke_teacherprize.aux
+./documents/teacherprize/macke_teacherprize.log
+./documents/teacherprize/macke_teacherprize.pdf
+./documents/teacherprize/macke_teacherprize.tex
+./documents/timewarrior
+./documents/timewarrior/data
+./documents/timewarrior/data/2017-11.data
+./documents/timewarrior/data/undo.data
+./documents/timewarrior/extensions
+./documents/timewarrior/timewarrior.cfg
+./documents/tkdd-review
+./documents/tkdd-review/diff.pdf
+./documents/tkdd-review/smacke_tkdd_review.txt
+./documents/tkdd-review/smacke_tkdd_revised_review.txt
+./documents/tkdd-review/TKDD-review-old.pdf
+./documents/tkdd-review/TKDD-review.pdf
+./documents/turc2010
+./documents/turc2010/Hacking The Art of Exploitation 2nd Edition.chm
+./documents/turc2010/Journal
+./documents/turc2010/Journal/macke_week1.pdf
+./documents/turc2010/Journal/TURC_final_paper.doc
+./documents/turc2010/Journal/TURC_final_paper.pdf
+./documents/turc2010/Journal/week6.pdf
+./documents/turc2010/Journal/week7.doc
+./documents/turc2010/Journal/week7.pdf
+./documents/turc2010/Journal/week_4.doc
+./documents/turc2010/Journal/Weeks 2 and 3.pdf
+./documents/turc2010/Journal/weeks_4-5.pdf
+./documents/turc2010/MC_src_stable
+./documents/turc2010/MC_src_stable/driver.c
+./documents/turc2010/MC_src_stable/polygonize.c
+./documents/turc2010/MC_src_stable/polygonize.h
+./documents/turc2010/MC_src_stable/table.h
+./documents/turc2010/Papers
+./documents/turc2010/Papers/10.1.1.3.7597.pdf
+./documents/turc2010/Papers/114320695.pdf
+./documents/turc2010/Papers/Face reconstruction using flesh deformation modes.pdf
+./documents/turc2010/Papers/phi_formatted.pdf
+./documents/turc2010/Papers/phillips96.pdf
+./documents/turc2010/Papers/tu05.pdf
+./documents/turc2010/poster.pdf
+./documents/turc2010/student email list.docx
+./documents/turc2010/summary.pdf
+./documents/turc2010/TURC_summer_2010_app.doc
+./documents/turc2010/volexample
+./documents/turc2010/volexample/glut32.dll
+./documents/turc2010/volexample/iso080.jpg
+./documents/turc2010/volexample/iso128.jpg
+./documents/turc2010/volexample/mri.info
+./documents/turc2010/volexample/mri.raw
+./documents/turc2010/volexample/poly.exe
+./documents/turc2010/volexample/poly.out
+./documents/turc2010/volexample/poly_old.exe
+./documents/turc2010/volexample/Triangulator.exe
+./documents/vimwiki
+./documents/vimwiki/templates
+./documents/vimwiki/templates/smacke.tpl
+./documents/vimwiki/wiki
+./documents/vimwiki/wiki/.index.wiki (turing's conflicted copy 2018-09-03).swp
+./documents/vimwiki/wiki/2018-tax-info.wiki
+./documents/vimwiki/wiki/academic-homepages-examples.wiki
+./documents/vimwiki/wiki/Alation Internships.wiki
+./documents/vimwiki/wiki/altcoin-mining.wiki
+./documents/vimwiki/wiki/amazon-affiliates-bots.wiki
+./documents/vimwiki/wiki/amazon-prime-student-emails-used.wiki
+./documents/vimwiki/wiki/amazon-shopping-list.wiki
+./documents/vimwiki/wiki/Appearance and Hygiene.wiki
+./documents/vimwiki/wiki/archived-collaboration-ideas.wiki
+./documents/vimwiki/wiki/archived-competitions.wiki
+./documents/vimwiki/wiki/archived-fellowships-and-apps.wiki
+./documents/vimwiki/wiki/archived-projects.wiki
+./documents/vimwiki/wiki/archived-research.wiki
+./documents/vimwiki/wiki/bash-notes.wiki
+./documents/vimwiki/wiki/Becoming Efficient.wiki
+./documents/vimwiki/wiki/blog-posts-to-read.wiki
+./documents/vimwiki/wiki/blogs-to-follow.wiki
+./documents/vimwiki/wiki/Book Ideas.wiki
+./documents/vimwiki/wiki/books-to-read.wiki
+./documents/vimwiki/wiki/Books.wiki
+./documents/vimwiki/wiki/boostrap-notes.wiki
+./documents/vimwiki/wiki/breaking-up.wiki
+./documents/vimwiki/wiki/browser-notes.wiki
+./documents/vimwiki/wiki/bureaucracy.wiki
+./documents/vimwiki/wiki/C++.wiki
+./documents/vimwiki/wiki/C.wiki
+./documents/vimwiki/wiki/Chapters.wiki
+./documents/vimwiki/wiki/Chrome Extension Ideas.wiki
+./documents/vimwiki/wiki/Churning.wiki
+./documents/vimwiki/wiki/competitions.wiki
+./documents/vimwiki/wiki/conferences.wiki
+./documents/vimwiki/wiki/CS511.wiki
+./documents/vimwiki/wiki/data-people-reading-list.wiki
+./documents/vimwiki/wiki/Databases Papers.wiki
+./documents/vimwiki/wiki/databases.wiki
+./documents/vimwiki/wiki/datasets-list.wiki
+./documents/vimwiki/wiki/desktop-software-ideas.wiki
+./documents/vimwiki/wiki/Determining quality in e-commerce.wiki
+./documents/vimwiki/wiki/dev.wiki
+./documents/vimwiki/wiki/diary
+./documents/vimwiki/wiki/diary/.2017-09-29.wiki (Stephen’s MacBook Pro's conflicted copy 2017-10-22).swp
+./documents/vimwiki/wiki/diary/.2017-11-05.wiki (Stephen’s MacBook Pro's conflicted copy 2017-11-05).swp
+./documents/vimwiki/wiki/diary/.2018-01-07.wiki.swp
+./documents/vimwiki/wiki/diary/2016-12-13.wiki
+./documents/vimwiki/wiki/diary/2016-12-14.wiki
+./documents/vimwiki/wiki/diary/2016-12-15.wiki
+./documents/vimwiki/wiki/diary/2016-12-16.wiki
+./documents/vimwiki/wiki/diary/2016-12-17.wiki
+./documents/vimwiki/wiki/diary/2016-12-18.wiki
+./documents/vimwiki/wiki/diary/2016-12-19.wiki
+./documents/vimwiki/wiki/diary/2016-12-20.wiki
+./documents/vimwiki/wiki/diary/2016-12-21.wiki
+./documents/vimwiki/wiki/diary/2016-12-22.wiki
+./documents/vimwiki/wiki/diary/2016-12-23.wiki
+./documents/vimwiki/wiki/diary/2016-12-24.wiki
+./documents/vimwiki/wiki/diary/2016-12-25.wiki
+./documents/vimwiki/wiki/diary/2016-12-26.wiki
+./documents/vimwiki/wiki/diary/2016-12-27.wiki
+./documents/vimwiki/wiki/diary/2016-12-28.wiki
+./documents/vimwiki/wiki/diary/2016-12-29.wiki
+./documents/vimwiki/wiki/diary/2016-12-30.wiki
+./documents/vimwiki/wiki/diary/2016-12-31.wiki
+./documents/vimwiki/wiki/diary/2017-01-01.wiki
+./documents/vimwiki/wiki/diary/2017-01-02.wiki
+./documents/vimwiki/wiki/diary/2017-01-03.wiki
+./documents/vimwiki/wiki/diary/2017-01-04.wiki
+./documents/vimwiki/wiki/diary/2017-01-05.wiki
+./documents/vimwiki/wiki/diary/2017-01-06.wiki
+./documents/vimwiki/wiki/diary/2017-01-07.wiki
+./documents/vimwiki/wiki/diary/2017-01-08.wiki
+./documents/vimwiki/wiki/diary/2017-01-09.wiki
+./documents/vimwiki/wiki/diary/2017-01-10.wiki
+./documents/vimwiki/wiki/diary/2017-01-11.wiki
+./documents/vimwiki/wiki/diary/2017-01-12.wiki
+./documents/vimwiki/wiki/diary/2017-01-13.wiki
+./documents/vimwiki/wiki/diary/2017-01-14.wiki
+./documents/vimwiki/wiki/diary/2017-01-15.wiki
+./documents/vimwiki/wiki/diary/2017-01-16.wiki
+./documents/vimwiki/wiki/diary/2017-01-17.wiki
+./documents/vimwiki/wiki/diary/2017-01-18.wiki
+./documents/vimwiki/wiki/diary/2017-01-21.wiki
+./documents/vimwiki/wiki/diary/2017-01-22.wiki
+./documents/vimwiki/wiki/diary/2017-01-23.wiki
+./documents/vimwiki/wiki/diary/2017-01-24.wiki
+./documents/vimwiki/wiki/diary/2017-01-25.wiki
+./documents/vimwiki/wiki/diary/2017-01-31.wiki
+./documents/vimwiki/wiki/diary/2017-02-04.wiki
+./documents/vimwiki/wiki/diary/2017-02-05.wiki
+./documents/vimwiki/wiki/diary/2017-02-06.wiki
+./documents/vimwiki/wiki/diary/2017-02-07.wiki
+./documents/vimwiki/wiki/diary/2017-02-08.wiki
+./documents/vimwiki/wiki/diary/2017-02-09.wiki
+./documents/vimwiki/wiki/diary/2017-02-10.wiki
+./documents/vimwiki/wiki/diary/2017-02-11.wiki
+./documents/vimwiki/wiki/diary/2017-02-12.wiki
+./documents/vimwiki/wiki/diary/2017-02-13.wiki
+./documents/vimwiki/wiki/diary/2017-02-14.wiki
+./documents/vimwiki/wiki/diary/2017-02-16.wiki
+./documents/vimwiki/wiki/diary/2017-02-17.wiki
+./documents/vimwiki/wiki/diary/2017-02-18.wiki
+./documents/vimwiki/wiki/diary/2017-02-19.wiki
+./documents/vimwiki/wiki/diary/2017-02-20.wiki
+./documents/vimwiki/wiki/diary/2017-02-21.wiki
+./documents/vimwiki/wiki/diary/2017-04-08.wiki
+./documents/vimwiki/wiki/diary/2017-04-14.wiki
+./documents/vimwiki/wiki/diary/2017-04-15.wiki
+./documents/vimwiki/wiki/diary/2017-04-16.wiki
+./documents/vimwiki/wiki/diary/2017-04-17.wiki
+./documents/vimwiki/wiki/diary/2017-04-18.wiki
+./documents/vimwiki/wiki/diary/2017-04-19.wiki
+./documents/vimwiki/wiki/diary/2017-04-20.wiki
+./documents/vimwiki/wiki/diary/2017-04-21.wiki
+./documents/vimwiki/wiki/diary/2017-04-22.wiki
+./documents/vimwiki/wiki/diary/2017-05-01.wiki
+./documents/vimwiki/wiki/diary/2017-05-02.wiki
+./documents/vimwiki/wiki/diary/2017-05-03.wiki
+./documents/vimwiki/wiki/diary/2017-05-04.wiki
+./documents/vimwiki/wiki/diary/2017-05-09.wiki
+./documents/vimwiki/wiki/diary/2017-05-10.wiki
+./documents/vimwiki/wiki/diary/2017-06-26.wiki
+./documents/vimwiki/wiki/diary/2017-07-16.wiki
+./documents/vimwiki/wiki/diary/2017-07-18.wiki
+./documents/vimwiki/wiki/diary/2017-08-07.wiki
+./documents/vimwiki/wiki/diary/2017-08-08.wiki
+./documents/vimwiki/wiki/diary/2017-08-09.wiki
+./documents/vimwiki/wiki/diary/2017-08-17.wiki
+./documents/vimwiki/wiki/diary/2017-08-18.wiki
+./documents/vimwiki/wiki/diary/2017-08-20.wiki
+./documents/vimwiki/wiki/diary/2017-08-21.wiki
+./documents/vimwiki/wiki/diary/2017-08-22.wiki
+./documents/vimwiki/wiki/diary/2017-08-23.wiki
+./documents/vimwiki/wiki/diary/2017-08-24.wiki
+./documents/vimwiki/wiki/diary/2017-08-27.wiki
+./documents/vimwiki/wiki/diary/2017-08-28.wiki
+./documents/vimwiki/wiki/diary/2017-08-29.wiki
+./documents/vimwiki/wiki/diary/2017-08-31.wiki
+./documents/vimwiki/wiki/diary/2017-09-01.wiki
+./documents/vimwiki/wiki/diary/2017-09-03.wiki
+./documents/vimwiki/wiki/diary/2017-09-21.wiki
+./documents/vimwiki/wiki/diary/2017-09-22.wiki
+./documents/vimwiki/wiki/diary/2017-09-23.wiki
+./documents/vimwiki/wiki/diary/2017-09-24.wiki
+./documents/vimwiki/wiki/diary/2017-09-25.wiki
+./documents/vimwiki/wiki/diary/2017-09-26.wiki
+./documents/vimwiki/wiki/diary/2017-09-27.wiki
+./documents/vimwiki/wiki/diary/2017-09-28.wiki
+./documents/vimwiki/wiki/diary/2017-09-29.wiki
+./documents/vimwiki/wiki/diary/2017-10-01.wiki
+./documents/vimwiki/wiki/diary/2017-10-04.wiki
+./documents/vimwiki/wiki/diary/2017-10-05.wiki
+./documents/vimwiki/wiki/diary/2017-10-06.wiki
+./documents/vimwiki/wiki/diary/2017-10-09.wiki
+./documents/vimwiki/wiki/diary/2017-10-10.wiki
+./documents/vimwiki/wiki/diary/2017-10-12.wiki
+./documents/vimwiki/wiki/diary/2017-10-14.wiki
+./documents/vimwiki/wiki/diary/2017-10-15.wiki
+./documents/vimwiki/wiki/diary/2017-10-19.wiki
+./documents/vimwiki/wiki/diary/2017-10-20.wiki
+./documents/vimwiki/wiki/diary/2017-10-21.wiki
+./documents/vimwiki/wiki/diary/2017-10-22.wiki
+./documents/vimwiki/wiki/diary/2017-10-23.wiki
+./documents/vimwiki/wiki/diary/2017-10-24.wiki
+./documents/vimwiki/wiki/diary/2017-10-25.wiki
+./documents/vimwiki/wiki/diary/2017-10-26.wiki
+./documents/vimwiki/wiki/diary/2017-10-27.wiki
+./documents/vimwiki/wiki/diary/2017-10-28.wiki
+./documents/vimwiki/wiki/diary/2017-10-29.wiki
+./documents/vimwiki/wiki/diary/2017-10-30.wiki
+./documents/vimwiki/wiki/diary/2017-11-01.wiki
+./documents/vimwiki/wiki/diary/2017-11-02.wiki
+./documents/vimwiki/wiki/diary/2017-11-03.wiki
+./documents/vimwiki/wiki/diary/2017-11-04.wiki
+./documents/vimwiki/wiki/diary/2017-11-05.wiki
+./documents/vimwiki/wiki/diary/2017-11-06.wiki
+./documents/vimwiki/wiki/diary/2017-11-07.wiki
+./documents/vimwiki/wiki/diary/2017-11-13.wiki
+./documents/vimwiki/wiki/diary/2017-11-14.wiki
+./documents/vimwiki/wiki/diary/2017-11-15.wiki
+./documents/vimwiki/wiki/diary/2017-11-16.wiki
+./documents/vimwiki/wiki/diary/2017-11-17.wiki
+./documents/vimwiki/wiki/diary/2018-01-07.wiki
+./documents/vimwiki/wiki/diary/2018-01-15.wiki
+./documents/vimwiki/wiki/diary/2018-04-09.wiki
+./documents/vimwiki/wiki/diary/2018-04-10.wiki
+./documents/vimwiki/wiki/diary/2018-04-12.wiki
+./documents/vimwiki/wiki/diary/2018-04-13.wiki
+./documents/vimwiki/wiki/diary/2018-04-15.wiki
+./documents/vimwiki/wiki/diary/2018-04-16.wiki
+./documents/vimwiki/wiki/diary/2018-04-17.wiki
+./documents/vimwiki/wiki/diary/2018-04-18.wiki
+./documents/vimwiki/wiki/diary/2018-04-19.wiki
+./documents/vimwiki/wiki/diary/2018-04-20.wiki
+./documents/vimwiki/wiki/diary/2018-04-24.wiki
+./documents/vimwiki/wiki/diary/2018-04-27.wiki
+./documents/vimwiki/wiki/diary/2018-04-28.wiki
+./documents/vimwiki/wiki/diary/2018-04-29.wiki
+./documents/vimwiki/wiki/diary/2018-05-01.wiki
+./documents/vimwiki/wiki/diary/2018-05-02.wiki
+./documents/vimwiki/wiki/diary/chores.wiki
+./documents/vimwiki/wiki/diary/diary.wiki
+./documents/vimwiki/wiki/diary/dropping-ece563-fall-2017.wiki
+./documents/vimwiki/wiki/diary/misc-categorized-todos.wiki
+./documents/vimwiki/wiki/diary/tasks-overview.wiki
+./documents/vimwiki/wiki/diary/timelog-2017-10-29.wiki
+./documents/vimwiki/wiki/diary/timelog-2017-10-30.wiki
+./documents/vimwiki/wiki/diary/timelog-2017-11-01.wiki
+./documents/vimwiki/wiki/diary/timelog-2017-11-02.wiki
+./documents/vimwiki/wiki/diary/yiming-evaluation.wiki
+./documents/vimwiki/wiki/DMG.wiki
+./documents/vimwiki/wiki/docker-notes.wiki
+./documents/vimwiki/wiki/documentaries-to-watch.wiki
+./documents/vimwiki/wiki/employment.wiki
+./documents/vimwiki/wiki/events.wiki
+./documents/vimwiki/wiki/fast-sgd.wiki
+./documents/vimwiki/wiki/FastMatch (Stephen’s MacBook Pro's conflicted copy 2017-09-21).wiki
+./documents/vimwiki/wiki/fastmatch-reviews.wiki
+./documents/vimwiki/wiki/fastmatch-revision-schedule.wiki
+./documents/vimwiki/wiki/fastmatch-revision.wiki
+./documents/vimwiki/wiki/fastmatch-schedule.wiki
+./documents/vimwiki/wiki/FastMatch.wiki
+./documents/vimwiki/wiki/fellowships-and-other-apps.wiki
+./documents/vimwiki/wiki/Fitness.wiki
+./documents/vimwiki/wiki/formulating-gestalt-problem-as-job-selection.wiki
+./documents/vimwiki/wiki/games-to-play.wiki
+./documents/vimwiki/wiki/gift-ideas.wiki
+./documents/vimwiki/wiki/gmail-notes.wiki
+./documents/vimwiki/wiki/gnu-make-notes.wiki
+./documents/vimwiki/wiki/goodwill-donation.wiki
+./documents/vimwiki/wiki/grad-self-eval-2018.wiki
+./documents/vimwiki/wiki/Haskell.wiki
+./documents/vimwiki/wiki/helix.wiki
+./documents/vimwiki/wiki/homebrew keg-only.wiki
+./documents/vimwiki/wiki/ideas-wiki.wiki
+./documents/vimwiki/wiki/index.wiki
+./documents/vimwiki/wiki/intern-cvs.wiki
+./documents/vimwiki/wiki/interview-questions.wiki
+./documents/vimwiki/wiki/iptables-notes.wiki
+./documents/vimwiki/wiki/javascript.wiki
+./documents/vimwiki/wiki/jaxx-notes.wiki
+./documents/vimwiki/wiki/jetbrains-notes.wiki
+./documents/vimwiki/wiki/json-web-tokens.wiki
+./documents/vimwiki/wiki/language-learning.wiki
+./documents/vimwiki/wiki/Laopos Feedback.wiki
+./documents/vimwiki/wiki/Lectures and Handouts.wiki
+./documents/vimwiki/wiki/linux-fs-notes.wiki
+./documents/vimwiki/wiki/maintenance-list.wiki
+./documents/vimwiki/wiki/Mandarin Chinese.wiki
+./documents/vimwiki/wiki/math-ideas.wiki
+./documents/vimwiki/wiki/matplotlib-notes.wiki
+./documents/vimwiki/wiki/Merrill Edge.wiki
+./documents/vimwiki/wiki/Minimalism.wiki
+./documents/vimwiki/wiki/misc-research-ideas.wiki
+./documents/vimwiki/wiki/misc-startup-ideas.wiki
+./documents/vimwiki/wiki/misc-tasks.wiki
+./documents/vimwiki/wiki/Mobile App Ideas.wiki
+./documents/vimwiki/wiki/monotone-bernoulli.wiki
+./documents/vimwiki/wiki/morocco-trip-planning.wiki
+./documents/vimwiki/wiki/movies-to-watch.wiki
+./documents/vimwiki/wiki/Music.wiki
+./documents/vimwiki/wiki/mysession.yaml.wiki
+./documents/vimwiki/wiki/notes-wiki.wiki
+./documents/vimwiki/wiki/oauth-notes.wiki
+./documents/vimwiki/wiki/old-research-ideas.wiki
+./documents/vimwiki/wiki/Open Source Ideas.wiki
+./documents/vimwiki/wiki/opt-binwidth-histograms.wiki
+./documents/vimwiki/wiki/osx-notes.wiki
+./documents/vimwiki/wiki/osxfuse-notes.wiki
+./documents/vimwiki/wiki/papers-please.wiki
+./documents/vimwiki/wiki/Papers.wiki
+./documents/vimwiki/wiki/perminv.wiki
+./documents/vimwiki/wiki/podcasts-to-listen-to.wiki
+./documents/vimwiki/wiki/presentation-notes.wiki
+./documents/vimwiki/wiki/project-euler.wiki
+./documents/vimwiki/wiki/Promises.wiki
+./documents/vimwiki/wiki/quotes-list.wiki
+./documents/vimwiki/wiki/React.wiki
+./documents/vimwiki/wiki/reading-group.wiki
+./documents/vimwiki/wiki/reading-list.wiki
+./documents/vimwiki/wiki/reimbursements-to-collect.wiki
+./documents/vimwiki/wiki/Relationship.wiki
+./documents/vimwiki/wiki/relationships.wiki
+./documents/vimwiki/wiki/Research ideas.wiki
+./documents/vimwiki/wiki/research.wiki
+./documents/vimwiki/wiki/resolve-app-v2.wiki
+./documents/vimwiki/wiki/resolve-app.wiki
+./documents/vimwiki/wiki/Rust.wiki
+./documents/vimwiki/wiki/scalable-ml-talk-notes.wiki
+./documents/vimwiki/wiki/scalable-viz.wiki
+./documents/vimwiki/wiki/scratch-spaces.wiki
+./documents/vimwiki/wiki/security.wiki
+./documents/vimwiki/wiki/Self-gift-ideas.wiki
+./documents/vimwiki/wiki/self-improvement.wiki
+./documents/vimwiki/wiki/shell-notes.wiki
+./documents/vimwiki/wiki/showing-constant-ratio-of-functions-by-equating-derivatives.wiki
+./documents/vimwiki/wiki/shows-to-watch.wiki
+./documents/vimwiki/wiki/side-income.wiki
+./documents/vimwiki/wiki/similarity-search-via-spline-interpolation.wiki
+./documents/vimwiki/wiki/socal-trip-planning.wiki
+./documents/vimwiki/wiki/Socializing.wiki
+./documents/vimwiki/wiki/sophie-data-incubator-app-round-2.wiki
+./documents/vimwiki/wiki/ssh-notes.wiki
+./documents/vimwiki/wiki/Study.wiki
+./documents/vimwiki/wiki/sublease-apt-summer-2018.wiki
+./documents/vimwiki/wiki/sublime-notes.wiki
+./documents/vimwiki/wiki/subscriptions.wiki
+./documents/vimwiki/wiki/summer-2018-internship.wiki
+./documents/vimwiki/wiki/table cell extraction.wiki
+./documents/vimwiki/wiki/Tensorflow.wiki
+./documents/vimwiki/wiki/ThinkCentre.wiki
+./documents/vimwiki/wiki/tmux-notes.wiki
+./documents/vimwiki/wiki/tools-wiki.wiki
+./documents/vimwiki/wiki/transaction-latency-talk-notes.wiki
+./documents/vimwiki/wiki/travel-checklist.wiki
+./documents/vimwiki/wiki/Trip Ideas.wiki
+./documents/vimwiki/wiki/uber-interview.wiki
+./documents/vimwiki/wiki/ubuntu-notes.wiki
+./documents/vimwiki/wiki/uiuc-engrit-notes.wiki
+./documents/vimwiki/wiki/vagrant-notes.wiki
+./documents/vimwiki/wiki/vega-talk-notes.wiki
+./documents/vimwiki/wiki/videos-to-watch.wiki
+./documents/vimwiki/wiki/vim-notes.wiki
+./documents/vimwiki/wiki/vuejs.wiki
+./documents/vimwiki/wiki/web-dev-notes.wiki
+./documents/vimwiki/wiki/Website Ideas.wiki
+./documents/vimwiki/wiki/William-gift-ideas.wiki
+./documents/vimwiki/wiki/window.postMessage example.wiki
+./documents/vimwiki/wiki/xfinity.wiki
+./documents/vimwiki/wiki/xiang-job-talk-notes.wiki
+./documents/vimwiki/wiki/yiming-onboarding.wiki
+./documents/vimwiki/wiki/zsh-notes.wiki
+./documents/vldb18-fastmatch
+./documents/vldb18-fastmatch/fastmatch-barebones.pptx
+./documents/vldb18-fastmatch/fastmatch-slides-condensed.pdf
+./documents/vldb18-fastmatch/fastmatch-slides.pdf
+./documents/vldb18-fastmatch/fastmatch-slides.pptx
+./documents/vldb18-fastmatch/license-form.pdf
+./documents/vldb18-fastmatch/notes.txt
+./documents/vldb18-fastmatch/receipts
+./documents/vldb18-fastmatch/receipts/uber-houston-1.pdf
+./documents/vldb18-fastmatch/receipts/uber-houston-2.pdf
+./documents/vldb18-fastmatch/receipts/uber-rio-1.pdf
+./documents/vldb18-fastmatch/receipts/vldb-registration-invoice-2.pdf
+./documents/vldb18-fastmatch/receipts/vldb-registration-invoice.pdf
+./documents/william-cv
+./documents/william-cv/fontawesome.zip
+./documents/william-cv/missfont.log
+./documents/william-cv/moderncv.zip
+./documents/william-cv/william-cv.aux
+./documents/william-cv/william-cv.log
+./documents/william-cv/william-cv.out
+./documents/william-cv/william-cv.pdf
+./documents/william-cv/william-cv.tex
+./media/com.Bisha.TI89EmuDonation_1133.apk
+./media/synergy
+./media/synergy/synergy-v1.8.8-stable-Linux-i686.deb
+./media/synergy/synergy-v1.8.8-stable-Linux-i686.rpm
+./media/synergy/synergy-v1.8.8-stable-Linux-x86_64.deb
+./media/synergy/synergy-v1.8.8-stable-Linux-x86_64.rpm
+./media/synergy/synergy-v1.8.8-stable-MacOSX-x86_64.dmg
+./media/synergy/synergy-v1.8.8-stable-Windows-x64.msi
+./media/synergy/synergy-v1.8.8-stable-Windows-x86.msi
+./media/TI89Titanium_OS.89u
+./papers/24-maxflowapps.pdf
+./papers/cosette-demo.pdf
+./papers/db-reading-group-fall-16
+./papers/db-reading-group-fall-16/datablocks.pdf
+./papers/db-reading-group-fall-16/flux_query.pdf
+./papers/db-reading-group-fall-18
+./papers/db-reading-group-fall-18/p1002-palkar.pdf
+./papers/db-reading-group-fall-18/p719-psallidas.pdf
+./papers/distribution-testing-survey-cannone.pdf
+./papers/dm
+./papers/dm/SDM14_paper502.pdf
+./papers/fastmatch.pdf
+./papers/jiisRevised4Apr2004.pdf
+./papers/keystoneml.pdf
+./papers/lower-bounds-for-learning-discrete-distributions-servedio.ps
+./papers/mendeley-papers
+./papers/mendeley-papers/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf
+./papers/mendeley-papers/Acharya et al. - 2015 - Fast and Near-Optimal Algorithms for Approximating Distributions by Histograms.pdf
+./papers/mendeley-papers/adaptive_rejection_sampling_gibbs.pdf
+./papers/mendeley-papers/Agarwal et al. - 2012 - Blink and it's done.pdf
+./papers/mendeley-papers/Agarwal et al. - 2014 - Knowing when you're wrong.pdf
+./papers/mendeley-papers/Andrieu et al. - Unknown - An Introduction to MCMC for Machine Learning.pdf
+./papers/mendeley-papers/Antal, Tillé - 2011 - Simple random sampling with over-replacement.pdf
+./papers/mendeley-papers/approx_agg_data_cube.pdf
+./papers/mendeley-papers/approx_chapter.pdf
+./papers/mendeley-papers/Armbrust et al. - 2015 - Spark SQL.pdf
+./papers/mendeley-papers/Auxiliary Variable Methods for Markov Chain Monte Carlo with Applications.pdf
+./papers/mendeley-papers/Babcock, Chaudhuri, Das - 2003 - Dynamic sample selection for approximate query processing.pdf
+./papers/mendeley-papers/boostrap_confidence_intervals.pdf
+./papers/mendeley-papers/Bouchard, Lakshminarayanan - 2015 - Approximate Inference with the Variational Holder Bound.pdf
+./papers/mendeley-papers/Bruno, Chaudhuri, Gravano - 2002 - Top-k selection queries over relational databases Mapping strategies and performance evaluation.pdf
+./papers/mendeley-papers/burgesLearningToRank-2011.pdf
+./papers/mendeley-papers/cd_implicit_feedback.pdf
+./papers/mendeley-papers/Chakrabarti et al. - 2001 - Approximate query processing using wavelets.pdf
+./papers/mendeley-papers/Chambi et al. - 2015 - Better bitmap performance with Roaring bitmaps.pdf
+./papers/mendeley-papers/Charlin et al. - 2015 - Dynamic Poisson Factorization.pdf
+./papers/mendeley-papers/Chen, Ye - 2011 - Projection Onto A Simplex.pdf
+./papers/mendeley-papers/conditional_samples_clement.pdf
+./papers/mendeley-papers/content-based-recommendations-with-poisson-factorization.pdf
+./papers/mendeley-papers/DataTone-UIST15.pdf
+./papers/mendeley-papers/Davidson et al. - 2013 - Using the crowd for top-k and group-by queries.pdf
+./papers/mendeley-papers/Duchi, Hazan, Singer - 2011 - Adaptive Subgradient Methods for Online Learning and Stochastic Optimization.pdf
+./papers/mendeley-papers/Duchi, Jordan, Wainwright - 2012 - Privacy Aware Learning.pdf
+./papers/mendeley-papers/Duchi, Mackey, Jordan - 2010 - On the consistency of ranking algorithms.pdf
+./papers/mendeley-papers/duchi11a.pdf
+./papers/mendeley-papers/DuchiMaJo10.pdf
+./papers/mendeley-papers/Efraimidis, Spirakis - 2006 - Weighted random sampling with a reservoir.pdf
+./papers/mendeley-papers/Fisher et al. - 2012 - Trust me, i'm partially right.pdf
+./papers/mendeley-papers/Foster, Jensen - 2012 - A Level-Set Hit-and-Run Sampler for Quasi-Concave Distributions.pdf
+./papers/mendeley-papers/Freund, Schapire - 1997 - A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting.pdf
+./papers/mendeley-papers/gao-conf-calibration.pdf
+./papers/mendeley-papers/generalized_pmf.pdf
+./papers/mendeley-papers/Gibbs sampling for Bayesian non-conjugate and hierarchical models by using auxiliary variables.pdf
+./papers/mendeley-papers/Gollapudi, Panigrahy - 2008 - The power of two min-hashes for similarity search among hierarchical data objects.pdf
+./papers/mendeley-papers/gopalan14.pdf
+./papers/mendeley-papers/graphlab_orig.pdf
+./papers/mendeley-papers/Haveliwala - 2002 - Topic-sensitive pagerank.pdf
+./papers/mendeley-papers/Hellerstein, Haas, Wang - 1997 - Online aggregation.pdf
+./papers/mendeley-papers/Helmberg - 2002 - Semidefinite programming.pdf
+./papers/mendeley-papers/Hoffman et al. - 2013 - Stochastic variational inference.pdf
+./papers/mendeley-papers/icicles-venky.pdf
+./papers/mendeley-papers/icml2005_BurgesSRLDHH05.pdf
+./papers/mendeley-papers/instanceOptFull.pdf
+./papers/mendeley-papers/Ipeirotis, Provost, Wang - 2010 - Quality management on Amazon Mechanical Turk.pdf
+./papers/mendeley-papers/Kim et al. - 2015 - Rapid sampling for visualizations with ordering guarantees.pdf
+./papers/mendeley-papers/lambdamart-tr.pdf
+./papers/mendeley-papers/latent_factor_transition_pmf.pdf
+./papers/mendeley-papers/Lemire, Kaser, Aouiche - 2010 - Sorting improves word-aligned bitmap indexes.pdf
+./papers/mendeley-papers/Li et al. - 2005 - RankSQL.pdf
+./papers/mendeley-papers/Li, Patel - 2013 - BitWeaving.pdf
+./papers/mendeley-papers/Li, Yang, Xue - 2009 - Transfer learning for collaborative filtering via a rating-matrix generative model.pdf
+./papers/mendeley-papers/nanocubes_paper.pdf
+./papers/mendeley-papers/nce-gutmann10a.pdf
+./papers/mendeley-papers/oza_online_boosting_bagging.pdf
+./papers/mendeley-papers/p193-vitter.pdf
+./papers/mendeley-papers/Paquet, Koenigstein - 2013 - One-class collaborative filtering with random graphs.pdf
+./papers/mendeley-papers/Parameswaran, Polyzotis, Garcia-Molina - 2013 - SeeDB.pdf
+./papers/mendeley-papers/Park, Boyd - 2015 - A Semidefinite Programming Method for Integer Convex Quadratic Minimization.pdf
+./papers/mendeley-papers/Park, Ostrouchov, Samatova - 2007 - Sampling streaming data with replacement.pdf
+./papers/mendeley-papers/Pea, Qualité, Tillé - 2007 - Systematic sampling is a minimum support design.pdf
+./papers/mendeley-papers/poisson_factorization_rec.pdf
+./papers/mendeley-papers/polyhedral_qp_box.pdf
+./papers/mendeley-papers/Qin et al. - 2013 - Efficient Online Bootstrapping for Large Scale Learning.pdf
+./papers/mendeley-papers/qp_approx.pdf
+./papers/mendeley-papers/qp_bound_constraints.pdf
+./papers/mendeley-papers/Raina et al. - 2007 - Self-taught learning.pdf
+./papers/mendeley-papers/Rajan, Ghosh, Gupta - 1989 - An efficient parallel algorithm for random sampling.pdf
+./papers/mendeley-papers/rdds.pdf
+./papers/mendeley-papers/Recommender-Systems-[Netflix].pdf
+./papers/mendeley-papers/Rendle2010FM.pdf
+./papers/mendeley-papers/Ré et al. - 2014 - Feature Engineering for Knowledge Base Construction.pdf
+./papers/mendeley-papers/schapire02boosting_schapire.pdf
+./papers/mendeley-papers/sdr_survey.pdf
+./papers/mendeley-papers/seedb-tr.pdf
+./papers/mendeley-papers/Siddiqui et al. - Unknown - Effortless Data Exploration with zenvisage An Expressive and Interactive Visual Analytics System.pdf
+./papers/mendeley-papers/Singh, Gordon - 2008 - Relational learning via collective matrix factorization.pdf
+./papers/mendeley-papers/slice_sampling.pdf
+./papers/mendeley-papers/sublinear_earth_movers.pdf
+./papers/mendeley-papers/Sun et al. - 2009 - RankClus.pdf
+./papers/mendeley-papers/topic-sensitive-pagerank.pdf
+./papers/mendeley-papers/Transactions, Discovery - 2015 - r Fo Pe er Re vi ew r Fo Pe er Re vi.pdf
+./papers/mendeley-papers/Vahedian - 2014 - Weighted hybrid recommendation for heterogeneous networks.pdf
+./papers/mendeley-papers/variational-intro.pdf
+./papers/mendeley-papers/viz_aware_sampling.pdf
+./papers/mendeley-papers/WaiJor08_FTML.pdf
+./papers/mendeley-papers/WaiJor_Aller03.ps
+./papers/mendeley-papers/Wainwright, Jordan - 2003 - Variational inference in graphical models The view from the marginal polytope.ps
+./papers/mendeley-papers/Yu et al. - 2013 - Recommendation in heterogeneous information networks with implicit user feedback.pdf
+./papers/mendeley-papers/Yu et al. - 2014 - Personalized entity recommendation.pdf
+./papers/mendeley-papers/zenvisage.pdf
+./papers/mendeley-papers/Zhang, Wang - 2015 - A Collective Bayesian Poisson Factorization Model for Cold-start Local Event Recommendation.pdf
+./papers/mendeley-papers/Zhu et al. - 2013 - Scalable text and link analysis with mixed-topic link models.pdf
+./papers/northstar.pdf
+./papers/p538-macke.pdf
+./papers/rubrik_whitepaper.pdf
+./papers/sapprox.pdf
+./papers/submodular-minimization-iwata.pdf
+./papers/submodular-minimization-schrijver.pdf
+./pictures/anna_graduation
+./pictures/anna_graduation/Photo May 07, 10 06 19 AM.jpg
+./pictures/anna_graduation/Photo May 07, 10 38 29 AM.jpg
+./pictures/anna_graduation/Photo May 07, 11 19 07 AM.jpg
+./pictures/anna_graduation/Photo May 07, 11 19 09 AM (1).jpg
+./pictures/anna_graduation/Photo May 07, 11 19 09 AM.jpg
+./pictures/anna_graduation/Photo May 07, 11 19 11 AM.jpg
+./pictures/anna_graduation/Photo May 07, 11 19 12 AM.jpg
+./pictures/anna_graduation/Photo May 07, 11 19 16 AM (1).jpg
+./pictures/anna_graduation/Photo May 07, 11 19 16 AM.jpg
+./pictures/anna_graduation/Photo May 07, 11 19 20 AM.jpg
+./pictures/anna_graduation/Photo May 07, 11 19 26 AM.jpg
+./pictures/anna_graduation/Photo May 07, 12 34 53 PM.jpg
+./pictures/anna_graduation/Photo May 07, 12 40 53 PM.jpg
+./pictures/anna_graduation/Photo May 07, 12 40 54 PM.jpg
+./pictures/anna_graduation/Photo May 07, 12 41 03 PM.jpg
+./pictures/anna_graduation/Photo May 07, 12 41 28 PM (1).jpg
+./pictures/anna_graduation/Photo May 07, 12 41 28 PM.jpg
+./pictures/anna_graduation/Photo May 07, 12 41 29 PM.jpg
+./pictures/anna_graduation/Photo May 07, 12 41 34 PM.jpg
+./pictures/anna_graduation/Photo May 07, 12 41 38 PM.jpg
+./pictures/anna_graduation/Photo May 07, 9 49 44 AM (1).jpg
+./pictures/anna_graduation/Photo May 07, 9 49 44 AM.jpg
+./pictures/beat
+./pictures/beat/10405423_755224394569298_700209821784588249_n.jpg
+./pictures/beat/10574527_755224617902609_6084521666670539180_n.jpg
+./pictures/beat/10615423_755224957902575_7679515032428272910_n.jpg
+./pictures/beat/10891628_755226897902381_8284101042015999848_n.jpg
+./pictures/beat/1528477_755224374569300_2194699305704021789_n.jpg
+./pictures/for-mom-digital-frame
+./pictures/govcup.png
+./pictures/headshot.christmas.jpg
+./pictures/headshot.jpg
+./pictures/IMG_20140823_161856.jpg
+./pictures/lol.png
+./pictures/macke-passport-photo.jpg
+./pictures/macke_lochness.jpg
+./pictures/macke_orkney_scotland.jpg
+./pictures/macke_tree_cropped.png
+./pictures/macke_yangshuo.jpg
+./pictures/misc
+./pictures/misc/alex_golf.png
+./pictures/misc/collegian-science.pdf
+./pictures/misc/copernicus_robot.jpeg
+./pictures/misc/D1Bwl.jpg
+./pictures/misc/epic_encryption.png
+./pictures/misc/failed.jpg
+./pictures/misc/icpc_aleph_1.jpg
+./pictures/misc/P1140005.JPG
+./pictures/misc/P1140008.JPG
+./pictures/misc/skye_trip.png
+./pictures/misc/smbc_cat_funny.png
+./pictures/misc/stephen_colosseum.jpg
+./pictures/misc/tux.jpg
+./pictures/misc/wolf3dwinscreen.png
+./pictures/monitors.jpg
+./pictures/parents.jpg
+./pictures/peace.jpg
+./pictures/receipts_snapshots
+./pictures/receipts_snapshots/2778134475-65435019-tickets.pdf
+./pictures/receipts_snapshots/keysurf_info.png
+./pictures/receipts_snapshots/pso_receipt.png
+./pictures/receipts_snapshots/study_abroad_tuition.png
+./pictures/receipts_snapshots/tu_invoice_2_3_12.pdf
+./pictures/sacsheriff
+./pictures/sacsheriff/IMG_3757.JPG
+./pictures/sacsheriff/IMG_3758.JPG
+./pictures/sacsheriff/IMG_3759.JPG
+./pictures/sacsheriff/IMG_3760.JPG
+./pictures/sacsheriff/IMG_3761.JPG
+./pictures/Signature_For_Letters
+./pictures/Signature_For_Letters/macke_sig.eps
+./pictures/Signature_For_Letters/macke_sig.png
+./pictures/smacke_ben_sunset_explosion_1.jpg
+./pictures/smacke_ben_sunset_explosion_2.jpg
+./pictures/smacke_snow_monkey.jpg
+./pictures/wallpapers
+./pictures/wallpapers/overgrown_bridge.jpg

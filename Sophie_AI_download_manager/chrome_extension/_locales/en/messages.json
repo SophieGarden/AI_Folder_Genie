@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Organize your downloads automatically! Set custom download locations based on filetype or source domain."
+   },
+   "appName": {
+      "message": "Download	Manager"
+   },
+   "msg_saved": {
+      "message": "Settings saved!"
+   }
+}

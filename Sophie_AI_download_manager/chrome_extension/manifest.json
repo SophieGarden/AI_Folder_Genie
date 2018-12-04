@@ -1,0 +1,30 @@
+{  "name": "AI Folder Genie for Downloading Files",
+  "short_name": "AI Folder Genie",
+  "version": "1.0.0",
+  "author": "Sophie Chen",
+  "manifest_version": 2,
+  "default_locale": "en",
+  "description": "AI Folder Genie: Magically download files to the right folder!",
+  "icons": {
+     "128": "data/icon128.png",
+     "16": "data/icon16.png",
+     "32": "data/icon32.png",
+     "48": "data/icon48.png"
+  },
+  "browser_action": {
+      "default_title": "AI Folder Genie"      // optional; shown in tooltip
+      },
+  "options_page": "options.html",
+  "background": {
+      "persistent": false,
+      "scripts": [ "manager.js", "thirdParty/jquery-3.3.1.min.js"]
+   },
+
+   "permissions": [
+     "downloads" ,
+     "tabs",
+     "http://localhost/5000",
+     "storage"
+    ]
+
+}

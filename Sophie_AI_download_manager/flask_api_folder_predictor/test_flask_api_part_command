@@ -1,0 +1,13 @@
+curl -X POST http://127.0.0.1:5000/  -d file_name=“summer.png”
+
+curl -X GET http://127.0.0.1:5000/
+
+
+wentingchen@SophieMac:~/Documents/CS-projects/Insight/ai-download-manager/Sophie_AI_download_manager/flask_api_folder_predictor$  curl -X POST http://127.0.0.1:5000/  -d file_name=“summer.png”
+pictures
+wentingchen@SophieMac:~/Documents/CS-projects/Insight/ai-download-manager/Sophie_AI_download_manager/flask_api_folder_predictor$ curl -X GET http://127.0.0.1:5000/
+random_folder
+
+
+
+curl -X POST http://127.0.0.1:5000/  -d file_name="summer.png" -d root_dir="/Users/wentingchen/Documents/Folder_Sample/" -d downloads_dir="/Users/wentingchen/Downloads"
