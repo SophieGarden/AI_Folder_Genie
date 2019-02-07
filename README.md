@@ -1,5 +1,5 @@
 # AI_Folder_Genie
-A Super COOL Chrome Extension that Magically download files to the right folder!
+A Super COOL Chrome Extension that Magically download files to the right folder! A Browser Download Manager ^^
 
 
 I developed my first ever MVP, I named AI Folder Genie, it is a Chrome Extension that can automatically download files to the right folder. I am very excited about this product, since I wrote my own machine learning algorithm for it (hierarchical classification). It’s the first product I created that is useful to a lot of people, not limited to academia. Also, I am very proud of myself that I did it within a couple of weeks, and it has a very positive feedback so far from people who use it!
