@@ -10,6 +10,7 @@ This is a project I did for my bootcamp. So I could only spend 2-3 wks on it. I 
 See the demo pdf for details!
 
 [youtube demo] (https://www.youtube.com/watch?v=Xv6-8A2dM4w&feature=youtu.be)
+
 [demo](https://github.com/SophieGarden/AI_Folder_Genie/blob/master/AI%20Folder%20Genie_demo_full_version.pdf)
 
 
