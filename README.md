@@ -11,11 +11,13 @@ This is a project I did for my bootcamp. So I could only spend 2-3 wks on it. I 
 
 See the youtube &slides demo for details!
 
-![user interface for input main file directory](https://github.com/SophieGarden/AI_Folder_Genie/blob/master/user_interface_1.png)
-
 [Youtube demo](https://www.youtube.com/watch?v=Xv6-8A2dM4w&feature=youtu.be)
 
 [Slides demo](https://github.com/SophieGarden/AI_Folder_Genie/blob/master/AI%20Folder%20Genie_demo_full_version.pdf)
+
+
+![user interface for input main file directory](https://github.com/SophieGarden/AI_Folder_Genie/blob/master/user_interface_1.png)
+
 
 I developed “AI Folder Genie”, a Chrome Extension that downloads files to the right folder.
 
