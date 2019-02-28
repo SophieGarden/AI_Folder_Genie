@@ -49,7 +49,7 @@ Then I count the number of occurrences of tokens extracted from the file names. 
 
 These are some examples of the features I extracted from the file names: we can see that the important features not only include file extensions, but also the most frequent words in file names.
 
---add---
+
 
 As we all know, folders can be nested. And users wouldn’t be happy if my product can only predict to the very first level, i.e, Pic/CS/Research. So in order to predict to deeper levels, I engineered the labels according to the levels they are in. For example, if a file lives in this Python folder, the corresponding label would be this string. I refer to these as level flattened labels.
 
@@ -72,7 +72,7 @@ To solve this problem, I developed hierarchical classification algorithm.
 
 
 
-------
+
 So I engineer the labels to Hierarchical structures as well. 
 For example, if a file lives in this Python folder, this file would have a corresponding label at each level; while for level-flattened labels, there is only one label corresponding to the desired level. 
 
@@ -88,7 +88,7 @@ So you may wonder how close to the actual folder my algorithm gets. This figure 
 Here we can clearly see the improvement of hierarchical algorithm. In order to achieve the the same overall accuracy, the level-flattened method has to confine its predictions only  to the first level, hence  80% of the data are  at least 4 levels (and therefore at least 4 frustrating double-clicks) away from the actual depth.
 
 
-
+------
 My name is Sophie Chen, I have a PhD from Electrical & Computer Engineering from University of Illinois at Urbana-Champaign. During my PhD I did lots of analysis on spectral and time domain data. In my spare time, I like to do flowers species classification outdoor with my own eyes.
 
 [LinkedIn](https://www.linkedin.com/in/sophie-chen-data/)
