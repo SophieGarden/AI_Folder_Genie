@@ -7,6 +7,8 @@ I developed my first ever MVP, I named AI Folder Genie, it is a Chrome Extension
 
 This is a project I did for my bootcamp. So I could only spend 2-3 wks on it. I would love to keep working on it once I got a job offer ^^. I am actively looking for machine learning engineer/data scientist positions!
 
+(I have been busy looking for jobs, so I will update the code, as well as instructions of how to install the Chrome Extension later)
+
 See the demo pdf for details!
 
 ![user interface for input main file directory](https://github.com/SophieGarden/AI_Folder_Genie/blob/master/user_interface_1.png)
